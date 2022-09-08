@@ -1,0 +1,2466 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="Itaguaí 200 anos - Conheça a história de Itaguaí através da linha do tempo e veja imagens históricas">
+    <meta name="author" content="Prefeitura de Itaguaí">
+
+
+    <!-- SEO -->
+
+    <meta name="description" content="Itaguaí - 200 Anos"/>
+    <link rel="canonical" href="http://itaguai.rj.gov.br/200anos/" />
+
+    <title>Itaguaí - 200 Anos</title>
+    <meta property="og:locale" content="pt_BR" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Itaguaí - 200 Anos" />
+    <meta property="og:description" content="Veja a história de Itaguaí através da Linha do Tempo" />
+    <meta property="og:url" content="http://itaguai.rj.gov.br/200anos/" />
+    <meta property="og:site_name" content="Prefeitura de Itaguaí" />
+    <meta property="og:image" content="http://itaguai.rj.gov.br/200anos/img/especial-200anos.png" />
+    <meta property="og:image:width" content="800"> 
+    <meta property="og:image:height" content="600"> 
+
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:description" content="Veja a história de Itaguaí através da Linha do Tempo" />
+    <meta name="twitter:title" content="Itaguaí - 200 Anos" />
+    <meta name="twitter:site" content="@prefitaguai" />
+    <meta name="twitter:image" content="http://itaguai.rj.gov.br/200anos/img/especial-200anos.png" />
+    <meta name="twitter:creator" content="@prefitaguai" />
+
+    <!-- / SEO. -->
+    <link rel="shortcut icon" href="http://itaguai.rj.gov.br/images/fav.png">
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom fonts for this template -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous">
+
+
+    <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+    <link href='https://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
+
+    <!-- Custom styles for this template -->
+    <link href="css/agency.min.css" rel="stylesheet">
+
+  </head>
+
+  <body id="page-top">
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg fixed-top" id="mainNav">
+      <div class="container">
+        <a class="navbar-brand js-scroll-trigger" href="#page-top"><img src="img/logos/logo200.png" /></a>
+        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+          Menu
+          <i class="fa fa-bars"></i>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+          <ul class="navbar-nav text-uppercase ml-auto">
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="#about">Linha do Tempo</a>
+            </li>
+
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="#team">Filhos ilustres</a>
+            </li>
+
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="imagens.html">Imagens históricas</a>
+            </li> 
+
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="doe-sua-historia.php">Doe sua história</a>
+            </li> 
+           
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    <!-- Header -->
+    <header class="masthead">
+      <div class="container">
+        <div class="intro-text">
+          <div class="intro-lead-in">Especial</div>
+          <div class="intro-heading text-uppercase">Itaguaí 200 anos</div>
+          <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#about">A história</a>
+          <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="http://itaguai.rj.gov.br" title="Ir para o site da prefeitura">site da prefeitura</a>
+        </div>
+      </div>
+    </header>
+
+    <!-- About -->
+    <section id="about" style="padding-top: 150px;">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12 text-center">
+            <h2 class="section-heading text-uppercase">Linha do tempo</h2>
+            <h3 class="section-subheading text-muted">Conheça a história de Itaguaí através da linha do tempo. Este espaço será atualizado constantemente.<br /> Última atualização: 09/07/2018</h3>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-lg-12">
+            <p>Ao caminhar pelas ruas do centro de Itaguaí e conversar com seus moradores, não é difícil ouvir chavões como “este lugar não
+tem História”, “na época dos meus pais era tudo mato”, “tudo começou com a vinda da NUCLEP” e outros, às vezes, até proferidos
+por pessoas instruídas, mas que revelam um total desconhecimento sobre o passado da cidade.</p>
+<p>
+Cremos que tal visão tenderá a desaparecer diante de tantas fontes, governamentais ou particulares, orais ou escritas, que
+provam o contrário. O município, desde suas mais remotas origens, há quase quatrocentos anos, construiu uma trajetória das mais
+relevantes.</p><p>
+As terras que compunham Itaguaí, conforme pudemos expor, abrigaram no espaço entre 1688 a 1850, aproximadamente, um
+aldeamento administrado pelos jesuítas, culturas de subsistência destinadas ao abastecimento do Rio de Janeiro, um engenho de
+açúcar que figurou entre os mais modernos da América Portuguesa, plantações de café ainda raras no solo brasileiro, um
+complexo portuário movimentado, onde atuaram negociantes das mais variadas nacionalidades, e um estabelecimento pré-industrial
+que mereceu a atenção e os investimentos de muitos homens eminentes.</p><p>
+Os mais de dezessete mil residentes com que Itaguaí contava em 1840, não obstante a denominação de vila que se aplicava à sua
+sede, eram um contingente bastante significativo para a época. Muito mais gente, por exemplo, do que os 9.897 habitantes de uma
+capital provincial como Maceió, em 1842, ou os 9.871 que viviam na estratégica localidade litorânea de Santos, já pelo Censo de
+1872.</p><p>
+Atingida pelo esvaziamento do porto, pelas epidemias, pela evasão inevitável da mão-de-obra e pelo abandono de áreas antes
+cultivadas, Itaguaí chegou a perder quase tudo, inclusive a maior parte de sua memória. Entretanto, apesar de todas as
+dificuldades, conservou-se como município e empreendeu, ao longo do século XX, uma marcha de recuperação, conseguindo
+diversificar sua economia e multiplicar, novamente, seu quantitativo humano. Hoje, o município dispõe da mesma vantagem que
+garantiu sua ascensão no Período Regencial: a estratégica localização na confluência dos principais centros econômicos do país. 
+            </p> <hr /><br />
+            <ul class="timeline">
+              <li>
+                <div class="timeline-image">
+
+                  <a data-toggle="modal" href="#portfolioModal1">
+                    <img class="rounded-circle img-fluid" src="img/portfolio/200/1688 - Primeira igreja construída para a catequização dos índios, na região de Coroa Grande.jpg" alt="" style="@media screen and (max-width: 800px) { height: 260px; }">
+                  </a>
+                  
+                </div>
+                <div class="timeline-panel">
+                  <div class="timeline-heading"><a data-toggle="modal" href="#portfolioModal1">
+                    <h4>1688</h4>
+                    <h4 class="subheading">Construção de uma igreja no aldeamento de Itaguaí pelos Jesuítas</h4></a>
+                  </div>
+                  <div class="timeline-body">
+                   
+                  </div>
+                </div>
+              </li>
+              <li class="timeline-inverted">
+                <div class="timeline-image">
+                  <a data-toggle="modal" href="#portfolioModal2">
+                    <img class="rounded-circle img-fluid" src="img/portfolio/200/1729 - Foto da década de 40 - Igreja Matriz de São Francisco Xavier.jpg" alt="">
+                  </a>
+                </div>
+                <div class="timeline-panel">
+                  <div class="timeline-heading">
+                    <a data-toggle="modal" href="#portfolioModal2">
+                      <h4>1729</h4>
+                      <h4 class="subheading">Conclusão da Construção da Igreja de São Francisco Xavier</h4>
+                    </a>
+                  </div>
+                  <div class="timeline-body">
+                    
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="timeline-image">
+                  <a data-toggle="modal" href="#portfolioModal3">
+                    <img class="rounded-circle img-fluid" src="img/portfolio/200/1794 - Foto da Década de 40 - Competição japonesa com o Engenho do Facão ao fundo.jpg" alt="">
+                  </a>
+                </div>
+                <div class="timeline-panel">
+                  <div class="timeline-heading">
+                    <a data-toggle="modal" href="#portfolioModal3">
+                    <h4>1794</h4>
+                    <h4 class="subheading">O Engenho do Facão moeu pela primeira vez</h4>
+                    </a>
+                  </div>
+                  <div class="timeline-body">
+                    
+                  </div>
+                </div>
+              </li>
+              <li class="timeline-inverted">
+                <div class="timeline-image">
+                  <a data-toggle="modal" href="#portfolioModal4">
+                    <img class="rounded-circle img-fluid" src="img/portfolio/200/1795 - Ilustração dos jesuítas na catequização dos índios, por volta de 1680.jpg" alt="">
+                  </a>
+                </div>
+                <div class="timeline-panel">
+                  <div class="timeline-heading">
+                    <a data-toggle="modal" href="#portfolioModal4">
+                    <h4>1795</h4>
+                    <h4 class="subheading">Itaguaí foi elevada à categoria de Paróquia</h4>
+                    </a>
+                  </div>
+                  <div class="timeline-body">
+                    
+                  </div>
+                </div>
+              </li>
+
+              <li>
+                <div class="timeline-image">
+                  <a data-toggle="modal" href="#portfolioModal5">
+                    <img class="rounded-circle img-fluid" src="img/portfolio/200/1806 - Engenho do Facão.jpg" alt="">
+                  </a>
+                </div>
+                <div class="timeline-panel">
+                  <div class="timeline-heading">
+                    <a data-toggle="modal" href="#portfolioModal5">
+                    <h4>1806</h4>
+                    <h4 class="subheading">O Engenho do Facão foi vendido</h4>
+                  </a>
+                  </div>
+                  <div class="timeline-body">
+                    
+                  </div>
+                </div>
+              </li>
+              <li class="timeline-inverted">
+                <div class="timeline-image">
+                  <a data-toggle="modal" href="#portfolioModal6">
+                    <img class="rounded-circle img-fluid" src="img/portfolio/200/1818 - Desenho da Vila de São Francisco Xavier de Itaguaí feito pela britânica Maria Graham.jpg" alt="" >
+                  </a>
+                </div>
+                <div class="timeline-panel">
+                  <div class="timeline-heading">
+                    <a data-toggle="modal" href="#portfolioModal6">
+                    <h4>1818</h4>
+                    <h4 class="subheading">Itaguaí foi elevada à condição de Vila</h4>
+                  </a>
+                  </div>
+                  <div class="timeline-body">
+                    
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="timeline-image">
+                  <a data-toggle="modal" href="#portfolioModal7">
+                    <img class="rounded-circle img-fluid" src="img/portfolio/200/1822 - Estrada Real da Serra da Calçada, o primeiro caminho construído pela corte portuguesa para ligar o Rio de Janeiro a São Paulo.JPG" alt="">
+                  </a>
+                </div>
+                <div class="timeline-panel">
+                  <div class="timeline-heading">
+                    <a data-toggle="modal" href="#portfolioModal7">
+                    <h4>1822</h4>
+                    <h4 class="subheading">Itaguaí na rota da Independência</h4>
+                  </a>
+                  </div>
+                  <div class="timeline-body">
+                    
+                  </div>
+                </div>
+              </li>
+              <li class="timeline-inverted">
+                <div class="timeline-image">
+                  <a data-toggle="modal" href="#portfolioModal8">
+                    <img class="rounded-circle img-fluid" src="img/portfolio/200/1830 - Clodomiro Vasconcelos, primeira escola pública de Itaguaí.jpg">
+                  </a>
+                </div>
+                <div class="timeline-panel">
+                  <div class="timeline-heading">
+                    <a data-toggle="modal" href="#portfolioModal8">
+                    <h4>1830</h4>
+                    <h4 class="subheading">Foi criada a primeira escola pública na Vila</h4>
+                  </a>
+                  </div>
+                  <div class="timeline-body">
+                    
+                  </div>
+                </div>
+              </li>
+
+              <li>
+                <div class="timeline-image">
+                  <a data-toggle="modal" href="#portfolioModal9">
+                    <img class="rounded-circle img-fluid" src="img/portfolio/200/1841 - Recibo do primeiro Porto Real de Itaguaí.jpg">
+                  </a>
+                </div>
+                <div class="timeline-panel">
+                  <div class="timeline-heading">
+                    <a data-toggle="modal" href="#portfolioModal9">
+                    <h4>1841</h4>
+                    <h4 class="subheading">Entra em operação o complexo portuário imperial da Vila de Itagoahy</h4>
+                  </a>
+                  </div>
+                  <div class="timeline-body">
+                    
+                  </div>
+                </div>
+              </li>
+              <li class="timeline-inverted">
+                <div class="timeline-image">
+                  <a data-toggle="modal" href="#portfolioModal10">
+                    <img class="rounded-circle img-fluid" src="img/portfolio/200/1847 - Foto da década de 90 - Chafariz.jpg" >
+                  </a>
+                </div>
+                <div class="timeline-panel">
+                  <div class="timeline-heading">
+                    <a data-toggle="modal" href="#portfolioModal10">
+                    <h4>1847</h4>
+                    <h4 class="subheading">Inauguração do Chafariz</h4>
+                  </a>
+                  </div>
+                  <div class="timeline-body">
+                    
+                  </div>
+                </div>
+              </li>
+
+              <li>
+                <div class="timeline-image">
+                  <a data-toggle="modal" href="#portfolioModal11">
+                    <img class="rounded-circle img-fluid" src="img/portfolio/200/1858 - Casa de Caridade, atual Hospital Municipal São Francisco Xavier.jpg" alt="">
+                  </a>
+                </div>
+                <div class="timeline-panel">
+                  <div class="timeline-heading">
+                    <a data-toggle="modal" href="#portfolioModal11">
+                    <h4>1858</h4>
+                    <h4 class="subheading">Inauguração da Casa de Caridade da Vila de São Francisco Xavier</h4>
+                  </a>
+                  </div>
+                  <div class="timeline-body">
+                    
+                  </div>
+                </div>
+              </li>
+              <li class="timeline-inverted">
+                <div class="timeline-image">
+                  <a data-toggle="modal" href="#portfolioModal12">
+                    <img class="rounded-circle img-fluid" src="img/portfolio/200/1880 - Biblioteca Municipal.jpg" alt="" >
+                  </a>
+                </div>
+                <div class="timeline-panel">
+                  <div class="timeline-heading">
+                    <a data-toggle="modal" href="#portfolioModal12">
+                    <h4>1880</h4>
+                    <h4 class="subheading">Inaugurada a Biblioteca Municipal de Itaguaí</h4>
+                  </a>
+                  </div>
+                  <div class="timeline-body">
+                    
+                  </div>
+                </div>
+              </li>
+
+              <li>
+                <div class="timeline-image">
+                  <a data-toggle="modal" href="#portfolioModal13">
+                    <img class="rounded-circle img-fluid" src="img/portfolio/200/1910 - Estação Ferroviária. Foi desativada em 1980 e restaurada em 2005.jpg" alt="">
+                  </a>
+                </div>
+                <div class="timeline-panel">
+                  <div class="timeline-heading">
+                    <a data-toggle="modal" href="#portfolioModal13">
+                    <h4>1910</h4>
+                    <h4 class="subheading">Inaugurada a estação ferroviária em Itaguaí</h4>
+                  </a>
+                  </div>
+                  <div class="timeline-body">
+                    
+                  </div>
+                </div>
+              </li>
+
+              <li class="timeline-inverted">
+                <div class="timeline-image">
+                  <a data-toggle="modal" href="#portfolioModal14">
+                    <img class="rounded-circle img-fluid" src="img/portfolio/200/1931 - Vista da casa de força da Usina Hidrelétrica Fontes Velha em 1908 localizada em Ribeirão das Lajes na cidade de Piraí. As Usinas Fontes Nova Nilo Peçanha e Pereira Passos compõem o Complexo de L.jpeg" alt="" >
+                  </a>
+                </div>
+                <div class="timeline-panel">
+                  <div class="timeline-heading">
+                    <a data-toggle="modal" href="#portfolioModal14">
+                    <h4>1931</h4>
+                    <h4 class="subheading">Inauguração da energia elétrica</h4>
+                  </a>
+                  </div>
+                  <div class="timeline-body">
+                    
+                  </div>
+                </div>
+              </li>
+
+
+              <li>
+                <div class="timeline-image">
+                   <a data-toggle="modal" href="#portfolioModal15">
+                    <img class="rounded-circle img-fluid" src="img/portfolio/200/1939 - Foto da década de 40 - Competição da colônia japonesa.jpg" alt="" >
+                  </a>
+                </div>
+                <div class="timeline-panel">
+                  <div class="timeline-heading">
+                    <a data-toggle="modal" href="#portfolioModal15">
+                    <h4>1939</h4>
+                    <h4 class="subheading">Chegada dos primeiros imigrantes japoneses em Itaguaí</h4>
+                  </div>
+                  <div class="timeline-body">
+                    
+                  </div>
+                </div>
+              </li>
+              <li class="timeline-inverted">
+                <div class="timeline-image">
+                  <a data-toggle="modal" href="#portfolioModal16">
+                    <img class="rounded-circle img-fluid" src="img/portfolio/200/1943 - Inaugurado o Coreto Municipal.jpg" alt="" >
+                  </a>
+                </div>
+                <div class="timeline-panel">
+                  <div class="timeline-heading">
+                    <a data-toggle="modal" href="#portfolioModal16">
+                    <h4>1943</h4>
+                    <h4 class="subheading">Inaugurado o Coreto Municipal</h4>
+                  </a>
+                  </div>
+                  <div class="timeline-body">
+                    
+                  </div>
+                </div>
+              </li>
+
+              <li>
+                <div class="timeline-image">
+                  <a data-toggle="modal" href="#portfolioModal17">
+                    <img class="rounded-circle img-fluid" src="img/portfolio/200/Década de 40 - Um dos primeiros blocos de carnaval.jpg" alt="" >
+                  </a>
+                </div>
+                <div class="timeline-panel">
+                  <div class="timeline-heading">
+                    <a data-toggle="modal" href="#portfolioModal17">
+                    <h4>1950</h4>
+                    <h4 class="subheading">Ano em que foi composto o Hino de Itaguaí</h4>
+                  </a>
+                  </div>
+                  <div class="timeline-body">
+                    
+                  </div>
+                </div>
+              </li>
+              <li class="timeline-inverted">
+                <div class="timeline-image">
+                  <a data-toggle="modal" href="#portfolioModal18">
+                    <img class="rounded-circle img-fluid" src="img/portfolio/200/1952 - Inauguração do Bunka Club, com Vicente Cicarino e o Consul do Japão.jpg" alt="">
+                  </a>
+                </div>
+                <div class="timeline-panel">
+                  <div class="timeline-heading">
+                    <a data-toggle="modal" href="#portfolioModal18">
+                    <h4>1952</h4>
+                    <h4 class="subheading">Inaugurado o Itaguaí Bunka Club</h4>
+                  </a>
+                  </div>
+                  <div class="timeline-body">
+                    
+                  </div>
+                </div>
+              </li>
+
+              <li>
+                <div class="timeline-image">
+                  <a data-toggle="modal" href="#portfolioModal19">
+                    <img class="rounded-circle img-fluid" src="img/portfolio/200/1953 - Padre Cesar (primeiro à esquerda) em reunião com políticos. Ele foi responsável pelo Patronato São José.jpg" alt="">
+                  </a>
+                </div>
+                <div class="timeline-panel">
+                  <div class="timeline-heading">
+                    <a data-toggle="modal" href="#portfolioModal19">
+                    <h4>1953</h4>
+                    <h4 class="subheading">Inaugurado o Patronato São José</h4>
+                  </a>
+                  </div>
+                  <div class="timeline-body">
+                    
+                  </div>
+                </div>
+              </li>
+
+              <li class="timeline-inverted">
+                <div class="timeline-image">
+                  <a data-toggle="modal" href="#portfolioModal20">
+                    <img class="rounded-circle img-fluid" src="img/portfolio/200/1960 - Mapa de Itaguaí e Paracambi.jpg" alt="">
+                  </a>
+                </div>
+                <div class="timeline-panel">
+                  <div class="timeline-heading">
+                    <a data-toggle="modal" href="#portfolioModal20">
+                    <h4>1960</h4>
+                    <h4 class="subheading">Emancipação de Paracambi</h4>
+                  </div>
+                  <div class="timeline-body">
+                    
+                  </div>
+                </div>
+              </li>
+
+              <li>
+                <div class="timeline-image">
+                  <a data-toggle="modal" href="#portfolioModal21">
+                    <img class="rounded-circle img-fluid" src="img/portfolio/200/1965 - brasao-itaguai.png" alt="" >
+                  </a>
+                </div>
+                <div class="timeline-panel">
+                  <div class="timeline-heading">
+                    <a data-toggle="modal" href="#portfolioModal21">
+                    <h4>1965</h4>
+                    <h4 class="subheading">Data da criação do Brasão de Itaguaí</h4>
+                  </a>
+                  </div>
+                  <div class="timeline-body">
+                    
+                  </div>
+                </div>
+              </li>
+
+              <li class="timeline-inverted">
+                <div class="timeline-image">
+                  <a data-toggle="modal" href="#portfolioModal22">
+                    <img class="rounded-circle img-fluid" src="img/portfolio/200/1967 - Relógio Solar.jpg" alt="" >
+                  </a>
+                </div>
+                <div class="timeline-panel">
+                  <div class="timeline-heading">
+                    <a data-toggle="modal" href="#portfolioModal22">
+                    <h4>1967</h4>
+                    <h4 class="subheading">Ano de construção do Relógio Solar</h4>
+                  </a>
+                  </div>
+                  <div class="timeline-body">
+                    
+                  </div>
+                </div>
+              </li>
+
+              <li>
+                <div class="timeline-image">
+                  <a data-toggle="modal" href="#portfolioModal23">
+                    <img class="rounded-circle img-fluid" src="img/portfolio/200/1982 - porto-itaguai.jpg" alt="" >
+                  </a>
+                </div>
+                <div class="timeline-panel">
+                  <div class="timeline-heading">
+                    <a data-toggle="modal" href="#portfolioModal23">
+                    <h4>1982</h4>
+                    <h4 class="subheading">Reinauguração do Porto de Itaguaí</h4>
+                  </a>
+                  </div>
+                  <div class="timeline-body">
+                    
+                  </div>
+                </div>
+              </li>
+
+              <li class="timeline-inverted">
+                <div class="timeline-image">
+                  <a data-toggle="modal" href="#portfolioModal32">
+                    <img class="rounded-circle img-fluid" src="img/portfolio/200/1989 - Festival de Pipas na Expo Itaguaí de 1999.jpg" alt="" >
+                  </a>
+                </div>
+                <div class="timeline-panel">
+                  <div class="timeline-heading">
+                    <a data-toggle="modal" href="#portfolioModal32">
+                    <h4>1989</h4>
+                    <h4 class="subheading">Realização da primeira grande festa do aniversário de Itaguaí</h4>
+                  </a>
+                  </div>
+                  <div class="timeline-body">
+                    
+                  </div>
+                </div>
+              </li>
+
+
+              <li>
+                <div class="timeline-image">
+                   <a data-toggle="modal" href="#portfolioModal24">
+                    <img class="rounded-circle img-fluid" src="img/portfolio/200/1995 - Proposta de divisão de Itaguaí e Seropédica.jpg" alt="" >
+                  </a>
+                </div>
+                <div class="timeline-panel">
+                  <div class="timeline-heading">
+                    <a data-toggle="modal" href="#portfolioModal24">
+                    <h4>1995</h4>
+                    <h4 class="subheading">Criação do Município de Seropédica</h4>
+                  </a>
+                  </div>
+                  <div class="timeline-body">
+                    
+                  </div>
+                </div>
+              </li>
+
+              <li class="timeline-inverted">
+                <div class="timeline-image">
+                  <a data-toggle="modal" href="#portfolioModal33">
+                    <img class="rounded-circle img-fluid" src="img/portfolio/200/1998 - Inauguração do Teatro Municipal.jpg" alt="">
+                  </a>
+                </div>
+                <div class="timeline-panel">
+                  <div class="timeline-heading">
+                    <a data-toggle="modal" href="#portfolioModal33">
+                    <h4>1998</h4>
+                    <h4 class="subheading">Inauguração do Teatro Municipal</h4>
+                  </a>
+                  </div>
+                  <div class="timeline-body">
+                    
+                  </div>
+                </div>
+              </li>
+
+
+              <li>
+                <div class="timeline-image">
+                  <a data-toggle="modal" href="#portfolioModal25">
+                    <img class="rounded-circle img-fluid" src="img/portfolio/200/2006 - Casa de Cultura de Itaguaí.jpg" alt="" >
+                  </a>
+                </div>
+                <div class="timeline-panel">
+                  <div class="timeline-heading">
+                    <a data-toggle="modal" href="#portfolioModal25">
+                    <h4>2006</h4>
+                    <h4 class="subheading">Inauguração da Casa de Cultura de Itaguaí</h4>
+                  </a>
+                  </div>
+                  <div class="timeline-body">
+                    
+                  </div>
+                </div>
+              </li>
+              <li class="timeline-inverted">
+                <div class="timeline-image">
+                  <a data-toggle="modal" href="#portfolioModal26">
+                    <img class="rounded-circle img-fluid" src="img/portfolio/200/2008 - cefet.jpg" alt="" >
+                  </a>
+                </div>
+                <div class="timeline-panel">
+                  <div class="timeline-heading">
+                    <a data-toggle="modal" href="#portfolioModal26">
+                    <h4>2008</h4>
+                    <h4 class="subheading">Inauguração do CEFET e da ETERJ</h4>
+                  </a>
+                  </div>
+                  <div class="timeline-body">
+                    
+                  </div>
+                </div>
+              </li>
+
+              <li>
+                <div class="timeline-image">
+                  <a data-toggle="modal" href="#portfolioModal27">
+                    <img class="rounded-circle img-fluid" src="img/portfolio/200/2009 - superportosudeste.jpg" alt="" >
+                  </a>
+                </div>
+                <div class="timeline-panel">
+                  <div class="timeline-heading">
+                    <a data-toggle="modal" href="#portfolioModal27">
+                    <h4>2009</h4>
+                    <h4 class="subheading">Início das Obras do Porto Sudeste</h4>
+                  </a>
+                  </div>
+                  <div class="timeline-body">
+                    
+                  </div>
+                </div>
+              </li>
+
+              <li class="timeline-inverted">
+                <div class="timeline-image">
+                  <a data-toggle="modal" href="#portfolioModal28">
+                    <img class="rounded-circle img-fluid" src="img/portfolio/200/2010 - Estaleiro e Base Naval de Itaguaí.jpg" alt="">
+                  </a>
+                </div>
+                <div class="timeline-panel">
+                  <div class="timeline-heading">
+                    <a data-toggle="modal" href="#portfolioModal28">
+                    <h4>2010</h4>
+                    <h4 class="subheading">Início das obras de Estaleiro e Base Naval</h4>
+                  </a>
+                  </div>
+                  <div class="timeline-body">
+
+                  </div>
+                </div>
+              </li>
+
+               <li>
+                <div class="timeline-image">
+                  <a data-toggle="modal" href="#portfolioModal29">
+                    <img class="rounded-circle img-fluid" src="img/portfolio/200/2011 - senai.jpg" alt="" >
+                  </a>
+                </div>
+                <div class="timeline-panel">
+                  <div class="timeline-heading">
+                    <a data-toggle="modal" href="#portfolioModal29">
+                    <h4>2011</h4>
+                    <h4 class="subheading">Inauguração do SENAI</h4>
+                  </a>
+                  </div>
+                  <div class="timeline-body">
+                    
+                  </div>
+                </div>
+              </li>
+
+              <li class="timeline-inverted">
+                <div class="timeline-image">
+                  <a data-toggle="modal" href="#portfolioModal30">
+                    <img class="rounded-circle img-fluid" src="img/portfolio/200/2014 - Foto aérea do Arco Metropolitano em 2014 (João dos Santos - Blog do Planalto).jpg" alt="" >
+                  </a>
+                </div>
+                <div class="timeline-panel">
+                  <div class="timeline-heading">
+                    <a data-toggle="modal" href="#portfolioModal30">
+                    <h4>2014</h4>
+                    <h4 class="subheading">Inauguração do Arco Metropolitano</h4>
+                  </a>
+                  </div>
+                  <div class="timeline-body">
+                    
+                  </div>
+                </div>
+              </li>
+
+               <li>
+                <div class="timeline-image">
+                  <a data-toggle="modal" href="#portfolioModal31">
+                    <img class="rounded-circle img-fluid" src="img/portfolio/200/2015 - Forte do Raio - Villa de Itagoahy, em 1818. Planta do Forte de Itaguaí (também conhecido como Forte de Coroa Grande).jpg" alt="" >
+                  </a>
+                </div>
+                <div class="timeline-panel">
+                  <div class="timeline-heading">
+                    <a data-toggle="modal" href="#portfolioModal31">
+                    <h4>2018</h4>
+                    <h4 class="subheading">Descoberta de jazida arqueológica em Itaguaí</h4>
+                  </a>
+                  </div>
+                  <div class="timeline-body">
+                    
+                  </div>
+                </div>
+              </li>
+
+              <li class="timeline-inverted">
+                <div class="timeline-image">
+                  <a data-toggle="modal" href="#portfolioModal34">
+                    <img class="rounded-circle img-fluid" src="img/logos/logo200.png" alt="" >
+                  </a>
+                </div>
+                <div class="timeline-panel">
+                  <div class="timeline-heading">
+                    <a data-toggle="modal" href="#portfolioModal34">
+                    <h4>2018</h4>
+                    <h4 class="subheading">200 anos da fundação de Itaguaí</h4>
+                  </a>
+                  </div>
+                  <div class="timeline-body">
+                    
+                  </div>
+                </div>
+              </li>
+
+              <li class="timeline-inverted" >
+                <div class="timeline-image" style="background: #FF4500;">
+                  <h4><a href="doe-sua-historia.php">Você
+                    <br>é parte da 
+                    <br>história!</a></h4>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Team -->
+    <section class="bg-light" id="team" style="padding: 125px 0;">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12 text-center">
+            <h2 class="section-heading text-uppercase">Filhos ilustres de Itaguaí</h2>
+            <h3 class="section-subheading text-muted">Clique nas imagens abaixo para conhecer um pouco da história de cada filho da cidade.</h3>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-sm-2">
+            <div class="team-member">
+              <a data-toggle="modal" href="#portfolioModalFoto1">
+                    
+                    <img class="mx-auto rounded-circle" src="img/team/barao-de-tefe.jpg" alt="">
+              </a>
+
+              
+              <h4>Barão de Teffé</h4>
+              
+              
+            </div>
+          </div>
+          <div class="col-sm-2">
+            <div class="team-member">
+              <a data-toggle="modal" href="#portfolioModalFoto2">
+                    
+                   <img class="mx-auto rounded-circle" src="img/team/motta-maia.jpg" alt="">
+              </a>
+              
+              <h4>Motta Maia</h4>
+              
+              
+            </div>
+          </div>
+          <div class="col-sm-2">
+            <div class="team-member">
+              <a data-toggle="modal" href="#portfolioModalFoto3">
+                <img class="mx-auto rounded-circle" src="img/team/francisco-jose-cardoso-junior.jpg" alt="">
+              </a>
+              <h4>Francisco José Cardoso Júnior</h4>
+             
+              
+            </div>
+          </div>
+
+          <div class="col-sm-2">
+            <div class="team-member">
+              <a data-toggle="modal" href="#portfolioModalFoto4">
+
+                <img class="mx-auto rounded-circle" src="img/team/joao-batista-auto-retrato.jpg" alt="">
+
+              </a>
+              <h4>João Batista da Costa</h4>
+              
+              
+            </div>
+          </div>
+
+          <div class="col-sm-2">
+            <div class="team-member">
+              <a data-toggle="modal" href="#portfolioModalFoto5">
+
+                <img class="mx-auto rounded-circle" src="img/team/Quintino Bocaiuva.jpg" alt="">
+
+              </a>
+              <h4>Quintino Bocaiuva</h4>
+              
+              
+            </div>
+          </div>
+        </div>
+        
+      </div>
+    </section>
+
+    <!-- Portfolio Grid -->
+    <section class="bg-light" id="portfolio">
+      <div class="container">
+        <div class="row" style="font-size: 12px;">
+          <p>Este conteúdo histórico foi produzido pela Prefeitura de Itaguaí, através da Comunicação Social em parceria com a Secretaria Municipal de Educação e Cultura. A fonte principal de consulta foi o livro Coletânea de Nossas Memórias Itaguaí - Cidade do Porto, de autoria da própria secretaria.</p><p>
+ 
+Para conclusão do material, também foram realizadas consultas ao livro Trilhas: a construção social e histórica de Itaguaí e Seropédica (Pet História, UFRRJ), de autoria de Fabiane Popinigis, Adriana Barreto de Souza e Margareth de Almeida Gonçalves, consultas com a Diretoria de Turismo da Prefeitura de Itaguaí, consulta ao projeto As Fortalezas Perdidas do Rio de Janeiro, do Instituto de Pesquisa Histórica e Arqueológica do Rio de Janeiro (IPHARJ), além dos sites www.portaldaindustria.com.br, www.cefet-rj.br, www.eterj.com.br, www.marinha.mil.br, www.light.com.br e www.paracambi.rj.gov.br.</p>
+        </div>
+      </div>
+    </section>
+
+   
+    <!-- Footer -->
+    <footer>
+      <div class="container">
+        <div class="row">
+          <div class="col-md-8">
+            <span class="copyright">Prefeitura de Itaguaí</span>
+          </div>
+          <div class="col-md-4">
+            <ul class="list-inline social-buttons">
+              <li class="list-inline-item">
+                <a href="https://www.twitter.com/prefitaguai/">
+                  <i class="fa fa-twitter"></i>
+                </a>
+              </li>
+              <li class="list-inline-item">
+                <a href="https://www.facebook.com/prefeituraitaguai/">
+                  <i class="fa fa-facebook"></i>
+                </a>
+              </li>
+              <li class="list-inline-item">
+                <a href="https://www.instagram.com/prefeituraitaguai/">
+                  <i class="fa fa-instagram"></i>
+                </a>
+              </li>
+            </ul>
+          </div>
+          
+        </div>
+      </div>
+    </footer>
+
+    <!-- Portfolio Modals -->
+
+    <!-- Modal 1 -->
+    <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+              <div class="rl"></div>
+            </div>
+          </div>
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-8 mx-auto">
+                <div class="modal-body">
+                  <!-- Project Details Go Here -->
+                  <h2 class="text-uppercase">Construção de uma igreja no aldeamento de Itaguaí pelos Jesuítas</h2>
+                  <p class="item-intro text-muted">1688 - Primeira igreja construída para a catequização dos índios, na região de Coroa Grande.</p>
+                  <img class="img-fluid d-block mx-auto" src="img/portfolio/200/1688 - Primeira igreja construída para a catequização dos índios, na região de Coroa Grande.jpg" alt="">
+                   <p>O ano de 1688 marcou o início da instalação dos jesuítas na região de Itaguaí. A Aldeia de Itaguaí é considerada uma das mais
+importantes do Rio de Janeiro e uma das que possuíram maior duração, tendo chegado até meados do século XIX.</p><br />
+<p>
+Antes do descobrimento do Brasil, os povos indígenas Tupinambás habitavam a futura cidade de Itaguaí. Em 1567, Mem de Sá
+expulsou os Tupinambás da região, trazendo povos indígenas Tupiniquins e Carijós, aliados dos portugueses. Porém, a fundação
+do aldeamento, que originou a atual cidade de Itaguaí, foi alvo de diversas polêmicas quanto à localização inicial, naturalidade dos
+índios e identidade dos fundadores. Enquanto há relatos de que a iniciativa da fundação da aldeia foi dos padres que atuavam nas
+vizinhanças, o historiador Monsenhor Pizarro aponta para o governador do Rio de Janeiro Martim de Sá, que teria mandado alguns
+índios para a ilha, atualmente conhecida como Jaguanum. Reforçando que a ideia de que a construção da aldeia de Itaguaí fez
+parte de um processo amplo e bem articulado pelas autoridades coloniais, podemos citar o fato de que a vizinha Mangaratiba foi
+fundada pelo mesmo Martim de Sá.</p><br />
+<p>
+A procedência do termo Itaguaí é igualmente controvertida. Uma publicação realizada pela Câmara Municipal, em 1979, informa
+que essa expressão indígena significa “fogo entre pedras”. Entretanto, a maioria dos autores afirma que a palavra Itaguaí resultou
+da junção entre os vocábulos togoa (amarela) e hy (água), em referência ao rio de mesmo nome, que nasce numa serra de solo
+argiloso, que lhe confere uma coloração amarelada. Esta versão é bem mais consistente, se verificarmos que os documentos do
+período colonial contêm a grafia “Tagoahy”, sem o prefixo “ita”, que indicaria, neste caso, pedra.</p>
+                  
+                  <button class="btn btn-primary" data-dismiss="modal" type="button">
+                    <i class="fa fa-times"></i>
+                    Fechar</button>
+                </div> 
+              </div>
+              <a data-toggle="modal" href="#portfolioModal2" title="Próximo" alt="Próximo">
+                <i class="fas fa-angle-right fa-9x" style="margin-top: 1em; width: 30px; height: 100px;"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal 2 -->
+    <div class="portfolio-modal modal fade" id="portfolioModal2" tabindex="-1" role="dialog" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+              <div class="rl"></div>
+            </div>
+          </div>
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-8 mx-auto">
+                <div class="modal-body">
+                  <!-- Project Details Go Here -->
+                  <h2 class="text-uppercase">Conclusão da Construção da Igreja de São Francisco Xavier</h2>
+                  <p class="item-intro text-muted">1729 - Foto da década de 40 - Igreja Matriz de São Francisco Xavier</p>
+                  <img class="img-fluid d-block mx-auto" src="img/portfolio/200/1729 - Foto da década de 40 - Igreja Matriz de São Francisco Xavier.jpg" alt="">
+                  <p>Os jesuítas mudaram-se para a Fazenda Santa Cruz para ficarem mais próximos do oceano. Nesse novo local, em 1718, foi
+iniciada a construção do novo templo dedicado a São Francisco Xavier. Concluída em 1729, a igreja teve a imagem deste santo
+colocada em seu altar único. É a mesma igreja que continua sendo a matriz de Itaguaí.
+</p>
+<p>
+A Igreja foi o primeiro prédio de Itaguaí, remanescente do aldeamento de jesuítas, configurando um marco na história e na
+ocupação do Município. Depois de dar o grito de independência às margens do Rio Ipiranga, em 1822, D. Pedro I seguiu com sua
+comitiva para o Rio de Janeiro, onde na Praça da Aclamação, localizada em frente à igreja, foi novamente proclamado Imperador
+do Brasil.</p>
+                  
+                  <button class="btn btn-primary" data-dismiss="modal" type="button">
+                    <i class="fa fa-times"></i>
+                    Fechar</button>
+                </div>
+              </div>
+              <a data-toggle="modal" href="#portfolioModal3" title="Próximo" alt="Próximo">
+                <i class="fas fa-angle-right fa-9x" style="margin-top: 1em; width: 30px; height: 100px;"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal 3 -->
+    <div class="portfolio-modal modal fade" id="portfolioModal3" tabindex="-1" role="dialog" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+              <div class="rl"></div>
+            </div>
+          </div>
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-8 mx-auto">
+                <div class="modal-body">
+                  <!-- Project Details Go Here -->
+                  <h2 class="text-uppercase">O Engenho do Facão moeu pela primeira vez</h2>
+                  <p class="item-intro text-muted">1794 - Foto da década de 40 - Competição japonesa com o Engenho do Facão ao fundo</p>
+                  <img class="img-fluid d-block mx-auto" src="img/portfolio/200/1794 - Foto da Década de 40 - Competição japonesa com o Engenho do Facão ao fundo.jpg" alt="">
+                  <p>O período compreendido entre os últimos anos do século XVIII e os primeiros do XIX se caracterizou pelo fortalecimento da
+agricultura voltada para a exportação no Brasil. Esta fase favorável resultou do crescimento populacional que se verificava não
+apenas nos países europeus, como também nos próprios domínios portugueses da América do Sul, aliado à intensificação das
+atividades comerciais em todo o mundo.
+</p>
+<p>O Engenho de Itaguaí ficou conhecido como Engenho do Facão (Engenho de Nossa Senhora da Conceição de Taguahy) devido
+ao Sítio do Facão, onde foi instalado. Feito com madeira, pedra e cal, ele contava com dois ternos de moendas movidas a água,
+tido pelos contemporâneos como a mais bela e rica peça do Brasil no gênero. Começou a ser construído em 1790 e moeu pela primeira vez em setembro de 1794, produzindo açúcar.</p>
+<p>
+Além da alta produtividade comum às terras da Fazenda de Santa Cruz, a abundância de matas fornecedoras de lenhas e a
+existência de um porto por onde era possível exportar o açúcar e demais derivados da cana contribuíram para o sucesso do
+Engenho, que recebeu duzentos escravos da Fazenda para o seu funcionamento. Sua construção, juntamente com o Engenho de
+Piraí, inaugurado em 1976, contribuiu para dinamizar a economia regional. A cultura da mandioca cresceu com a abertura de duas
+fábricas de farinha, sendo uma no “Sítio do Facão” e a outra perto de Piraí. Outras plantações, como arroz, feijão, milho e café,
+também se expandiram.</p>
+                  
+                  <button class="btn btn-primary" data-dismiss="modal" type="button">
+                    <i class="fa fa-times"></i>
+                    Fechar</button>
+                </div>
+              </div>
+              <a data-toggle="modal" href="#portfolioModal4" title="Próximo" alt="Próximo">
+                <i class="fas fa-angle-right fa-9x" style="margin-top: 1em; width: 30px; height: 100px;"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal 4 -->
+    <div class="portfolio-modal modal fade" id="portfolioModal4" tabindex="-1" role="dialog" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+              <div class="rl"></div>
+            </div>
+          </div>
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-8 mx-auto">
+                <div class="modal-body">
+                  <!-- Project Details Go Here -->
+                  <h2 class="text-uppercase">Itaguaí foi elevada à categoria de Paróquia</h2>
+                  <p class="item-intro text-muted">1795 - Ilustração dos jesuítas na catequização dos índios, por volta de 1680</p>
+                  <img class="img-fluid d-block mx-auto" src="img/portfolio/200/1795 - Ilustração dos jesuítas na catequização dos índios, por volta de 1680.jpg" alt="">
+                  <p>Com a expulsão dos jesuítas pelo Marquês de Pombal, em 1759, a aldeia ficou sem sua escola e perdeu também a organização
+base do aldeamento, que era feita pelos jesuítas, mas o povoado subsistiu. Itaguaí passou à categoria de Paróquia em 22 de
+dezembro de 1795, por força do alvará, aplicável a todas as aldeias do Brasil. A atividade econômica de praticamente toda região
+costeira, incluindo Itaguaí, eram as plantações de cana-de-açúcar. Suas terras férteis proporcionaram uma vida rural e comercial
+bastante vigorosa durante todo o século XIX.</p>
+                  
+                  <button class="btn btn-primary" data-dismiss="modal" type="button">
+                    <i class="fa fa-times"></i>
+                    Fechar</button>
+                </div>
+              </div>
+              <a data-toggle="modal" href="#portfolioModal5" title="Próximo" alt="Próximo">
+                <i class="fas fa-angle-right fa-9x" style="margin-top: 1em; width: 30px; height: 100px;"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal 5 -->
+    <div class="portfolio-modal modal fade" id="portfolioModal5" tabindex="-1" role="dialog" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+              <div class="rl"></div>
+            </div>
+          </div>
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-8 mx-auto">
+                <div class="modal-body">
+                  <!-- Project Details Go Here -->
+                  <h2 class="text-uppercase">O Engenho do Facão é vendido</h2>
+                  <p class="item-intro text-muted">1806 - Engenho do Facão</p>
+                  <img class="img-fluid d-block mx-auto" src="img/portfolio/200/1806 - Engenho do Facão.jpg" alt="">
+                  <p>A carta régia de 7 de novembro de 1803 determinou que os engenhos de Itaguaí e Piraí fossem vendidos, fato que teria se
+concretizado no ano seguinte. Os argumentos apresentados pelos defensores da operação foram a possibilidade de redução das
+dívidas do Tesouro na província do Rio de Janeiro e a má gestão daquela propriedade como um todo.</p>
+<p>
+Há controvérsias a respeito da negociação do Engenho. Segundo uma das versões, o engenho foi comprado, sem concorrência,
+por Antônio Gomes Barroso, em 1806, por uma quantia pouco superior a duzentos e quarenta e um contos de réis. Todavia,
+documentos com mais credibilidade, segundo a Professora Titular do Instituto de Pesquisa e Planejamento Urbano e Regional da
+Universidade Federal do Rio de Janeiro, Fania Fridman, assinalam um valor ainda menor, na casa dos cento e setenta e nove
+contos, sendo o verdadeiro comprador a sociedade integrada por Antônio José da Silva Braga, Amaro Velho da Silva e os irmãos
+João Alexandre Gomes Barroso e Antônio Gomes Barroso. Entretanto, este último viria a se tornar o único dono de Itaguaí,
+falecendo em 1825 aos 85 anos.</p>
+                 
+                  <button class="btn btn-primary" data-dismiss="modal" type="button">
+                    <i class="fa fa-times"></i>
+                    Fechar</button>
+                </div>
+              </div>
+              <a data-toggle="modal" href="#portfolioModal6" title="Próximo" alt="Próximo">
+                <i class="fas fa-angle-right fa-9x" style="margin-top: 1em; width: 30px; height: 100px;"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal 6 -->
+    <div class="portfolio-modal modal fade" id="portfolioModal6" tabindex="-1" role="dialog" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+              <div class="rl"></div>
+            </div>
+          </div>
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-8 mx-auto">
+                <div class="modal-body">
+                  <!-- Project Details Go Here -->
+                  <h2 class="text-uppercase">Itaguaí foi elevado à condição de Vila</h2>
+                  <p class="item-intro text-muted">1818 - Desenho da Vila de São Francisco Xavier de Itaguaí feito pela britânica Maria Graham</p>
+                  <img class="img-fluid d-block mx-auto" src="img/portfolio/200/1818 - Desenho da Vila de São Francisco Xavier de Itaguaí feito pela britânica Maria Graham.jpg" alt="">
+                  <p>O alvará de 5 de julho de 1818 elevou Itaguaí à condição de Vila, fundada oficialmente com a denominação de Vila de São
+Francisco Xavier de Itaguaí.
+</p>
+<p>
+O município surgiu com a reunião de terras antes subordinadas a Angra dos Reis e ao Rio de Janeiro. Apenas entre 1808 e 1822,
+oito novos municípios receberam sua autonomia. Para se ter ideia do ocorrido, somente dez municípios tiveram tal benefício entre
+1565 a 1808.
+</p>
+<p>
+A área original de Itaguaí era bem maior do que a atual, pois abrangia as áreas das futuras freguesias de São Pedro e São Paulo
+de Ribeirão das Lajes (atual Paracambi) e Nossa Senhora da Conceição do Bananal (atual Seropédica), além de Mangaratiba.</p>
+                  
+                  <button class="btn btn-primary" data-dismiss="modal" type="button">
+                    <i class="fa fa-times"></i>
+                    Fechar</button>
+                </div>
+              </div>
+              <a data-toggle="modal" href="#portfolioModal7" title="Próximo" alt="Próximo">
+                <i class="fas fa-angle-right fa-9x" style="margin-top: 1em; width: 30px; height: 100px;"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+    <!-- Modal 7 -->
+    <div class="portfolio-modal modal fade" id="portfolioModal7" tabindex="-1" role="dialog" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+              <div class="rl"></div>
+            </div>
+          </div>
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-8 mx-auto">
+                <div class="modal-body">
+                  <!-- Project Details Go Here -->
+                  <h2 class="text-uppercase">Itaguaí na rota da Independência</h2>
+                  <p class="item-intro text-muted">1822 - Estrada Real da Serra da Calçada, o primeiro caminho construído pela corte portuguesa para ligar o Rio de Janeiro a São Paulo</p>
+                  <img class="img-fluid d-block mx-auto" src="img/portfolio/200/1822 - Estrada Real da Serra da Calçada, o primeiro caminho construído pela corte portuguesa para ligar o Rio de Janeiro a São Paulo.JPG" alt="">
+                  <p>A história do Brasil também está registrada em Itaguaí. Dom Pedro I, primeiro Imperador do Brasil (1822-1831), na época ainda
+Príncipe Regente, passou por Itaguaí, pela Estrada da Calçada, a caminho de São Paulo, onde proclamaria a independência do
+Brasil.</p><p>
+A Estrada Real da Serra da Calçada foi o primeiro caminho construído em 1822 pela corte portuguesa para ligar o Rio de Janeiro a
+São Paulo. Localizada em Raiz da Serra, talvez seja uma das mais antigas estradas do país. A estreita via é revestida com pedras
+pé-de-moleque que foram transportadas até o local por escravos. Dom Pedro a usava com frequência nas suas viagens à capital
+paulista. A sinuosidade da estrada é acompanhada por lindas árvores nativas e pelo ar fresco da floresta.</p><p>
+Após dar o grito da independência às margens do Rio Ipiranga, Dom Pedro I, juntamente com sua comitiva, voltaram para Itaguaí,
+sendo novamente proclamado Imperador do Brasil e aclamado em praça pública, na Praça da Aclamação, no Centro.</p>
+                  
+                  <button class="btn btn-primary" data-dismiss="modal" type="button">
+                    <i class="fa fa-times"></i>
+                    Fechar</button>
+                </div>
+              </div>
+              <a data-toggle="modal" href="#portfolioModal8" title="Próximo" alt="Próximo">
+                <i class="fas fa-angle-right fa-9x" style="margin-top: 1em; width: 30px; height: 100px;"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+    <!-- Modal 8 -->
+    <div class="portfolio-modal modal fade" id="portfolioModal8" tabindex="-1" role="dialog" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+              <div class="rl"></div>
+            </div>
+          </div>
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-8 mx-auto">
+                <div class="modal-body">
+                  <!-- Project Details Go Here -->
+                  <h2 class="text-uppercase">Foi criada a primeira escola pública na Vila</h2>
+                  <p class="item-intro text-muted">1830 - Clodomiro Vasconcelos, primeira escola pública de Itaguaí</p>
+                  <img class="img-fluid d-block mx-auto" src="img/portfolio/200/1830 - Clodomiro Vasconcelos, primeira escola pública de Itaguaí.jpg">
+                  <p>A primeira escola pública da Vila de São Francisco Xavier foi criada em meados de 1830. É bastante provável que, antes dessa
+época, a vila já possuísse estabelecimento de ensino funcionando por iniciativa particular. O Inspetor de Ensino era o Padre
+Antônio Dias Rello, Vigário da Vila, que permaneceu em atividade até junho de 1837. Em 1888, Itaguaí possuía 243 alunos
+matriculados.</p>
+                  
+                  <button class="btn btn-primary" data-dismiss="modal" type="button">
+                    <i class="fa fa-times"></i>
+                    Fechar</button>
+                </div>
+              </div>
+              <a data-toggle="modal" href="#portfolioModal9" title="Próximo" alt="Próximo">
+                <i class="fas fa-angle-right fa-9x" style="margin-top: 1em; width: 30px; height: 100px;"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+    <!-- Modal 9 -->
+    <div class="portfolio-modal modal fade" id="portfolioModal9" tabindex="-1" role="dialog" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+              <div class="rl"></div>
+            </div>
+          </div>
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-8 mx-auto">
+                <div class="modal-body">
+                  <!-- Project Details Go Here -->
+                  <h2 class="text-uppercase">Entra em operação o complexo portuário imperial da Vila de Itagoahy</h2>
+                  <p class="item-intro text-muted">1841 - Recibo do primeiro Porto Real de Itaguaí</p>
+                  <img class="img-fluid d-block mx-auto" src="img/portfolio/200/1841 - Recibo do primeiro Porto Real de Itaguaí.jpg">
+                  <p>Projetado pelo engenheiro do exército Frederico Guilherme Von Hoonholtz (pai do Barão de Teffé) e pelo negociante Antônio
+Vicente Danemberg, as atividades do porto foram iniciadas em 22 de março de 1841. Porém, em 1830 já tinham projetado um
+porto de mar, que ficou conhecido como Porto Real de Itaguaí ou Imperial Porto da Vila de Itaguaí, que contribuiu para o
+desenvolvimento da navegação e do comércio no local. Em 1836, por exemplo, a exportação anual de café, que girava em torno
+de 50.000 arrobas, passou para 400.000. Refletindo a nova conjuntura, o número de casas da vila passou de 36 para 132.</p>
+
+<p>A conjuntura favorável não era, contudo, isenta de problemas. Os gêneros que precisavam ser embarcados em Itaguaí atingiam a
+vila conduzida sobre o lombo de animais, ou por carros, que percorriam uma estrada ruim até seu destino no ancoradouro fluvial,
+denominado Trapiche do Barroso. Para piorar a situação, tendo em vista a pouca profundidade do rio Itaguaí, os barcos maiores
+eram carregados com apenas metade de suas capacidades para não encalharem na barra. O restante das mercadorias seguia em
+lanchas até o saco da Ilha da Madeira. Esse problema encontrado pelos navegantes foi solucionado com a construção de um
+canal, que mais tarde ficaria conhecido por Canal de São Pedro de Alcântara, sendo de grande utilidade à província.</p>
+                  
+                  <button class="btn btn-primary" data-dismiss="modal" type="button">
+                    <i class="fa fa-times"></i>
+                    Fechar</button>
+                </div>
+              </div>
+              <a data-toggle="modal" href="#portfolioModal10" title="Próximo" alt="Próximo">
+                <i class="fas fa-angle-right fa-9x" style="margin-top: 1em; width: 30px; height: 100px;"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+    <!-- Modal 10 - 1847-->
+    <div class="portfolio-modal modal fade" id="portfolioModal10" tabindex="-1" role="dialog" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+              <div class="rl"></div>
+            </div>
+          </div>
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-8 mx-auto">
+                <div class="modal-body">
+                  <!-- Project Details Go Here -->
+                  <h2 class="text-uppercase">Inauguração do Chafariz</h2>
+                  <p class="item-intro text-muted">1847 - Foto da década de 90 - Chafariz</p>
+                  <img class="img-fluid d-block mx-auto" src="img/portfolio/200/1847 - Foto da década de 90 - Chafariz.jpg">
+                  <p>O Chafariz, semelhante a uma pequena casa, encontra-se na antiga “Estrada Real”, que fazia parte do caminho para São Paulo. A
+obra foi inaugurada pela Câmara Municipal a fim de abastecer de água a população. Foi ponto de parada dos viajantes que iam
+em direção a Minas e a São Paulo.</p>
+                  
+                  <button class="btn btn-primary" data-dismiss="modal" type="button">
+                    <i class="fa fa-times"></i>
+                    Fechar</button>
+                </div>
+              </div>
+              <a data-toggle="modal" href="#portfolioModal11" title="Próximo" alt="Próximo">
+                <i class="fas fa-angle-right fa-9x" style="margin-top: 1em; width: 30px; height: 100px;"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal 11 - 1858-->
+    <div class="portfolio-modal modal fade" id="portfolioModal11" tabindex="-1" role="dialog" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+              <div class="rl"></div>
+            </div>
+          </div>
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-8 mx-auto">
+                <div class="modal-body">
+                  <!-- Project Details Go Here -->
+                  <h2 class="text-uppercase">Inauguração da Casa de Caridade da Vila de São Francisco Xavier</h2>
+                  <p class="item-intro text-muted">1858 - Casa de Caridade, atual Hospital Municipal São Francisco Xavier</p>
+                  <img class="img-fluid d-block mx-auto" src="img/portfolio/200/1858 - Casa de Caridade, atual Hospital Municipal São Francisco Xavier.jpg">
+                  <p>Fundada em 31 de outubro de 1858, a Casa de Caridade, juridicamente, era mantida por uma associação denominada
+"Associação de Caridade de São Francisco Xavier de Itaguaí”, sendo uma das poucas instituições que, estruturadas durante a
+monarquia, se mantiveram funcionando em Itaguaí ao longo do século XX. No local, hoje funciona o Hospital Municipal São
+Francisco Xavier.</p>
+<p>
+  O acontecimento mais memorável da Casa de Caridade, verificado em suas instalações, foi o implante de mão realizado pelo Dr.
+Gílson Braga, o primeiro realizado no Brasil, ocorrido em 1968. Em razão deste fato, a Rainha do Reino Unido, Elizabeth, doou
+uma sala de cirurgia para a Casa de Caridade. Também em 1968, ela visitou o Brasil como parte de um programa de integração
+econômica com a América Latina. Em agradecimento, agricultores fizeram uma homenagem para a Rainha com um desfile no
+aniversário da cidade.
+</p>
+                  
+                  <button class="btn btn-primary" data-dismiss="modal" type="button">
+                    <i class="fa fa-times"></i>
+                    Fechar</button>
+                </div>
+              </div>
+              <a data-toggle="modal" href="#portfolioModal12" title="Próximo" alt="Próximo">
+                <i class="fas fa-angle-right fa-9x" style="margin-top: 1em; width: 30px; height: 100px;"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal 12 - 1880 -->
+    <div class="portfolio-modal modal fade" id="portfolioModal12" tabindex="-1" role="dialog" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+              <div class="rl"></div>
+            </div>
+          </div>
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-8 mx-auto">
+                <div class="modal-body">
+                  <!-- Project Details Go Here -->
+                  <h2 class="text-uppercase">Inaugurada a Biblioteca Municipal de Itaguaí</h2>
+                  <p class="item-intro text-muted">1880 - Biblioteca Municipal</p>
+                  <img class="img-fluid d-block mx-auto" src="img/portfolio/200/1880 - Biblioteca Municipal.jpg">
+                  <p>A biblioteca foi instalada por incentivo do Imperador D. Pedro II. A "Casa de Leitura" foi inaugurada no dia 02 de dezembro de
+1880 (feriado nacional), data em que se comemorava o 50º aniversário natalício do Imperador D.
+Pedro II. A biblioteca, ao ser inaugurada, já contava com um acervo bastante considerável, em função do local e da época: cerca
+de dois mil títulos, mapas geográficos, um grande globo terrestre e mobiliário apropriado, tudo obtido por doação de beneméritos
+cidadãos e até mesmo do próprio imperador D. Pedro II. Hoje, a biblioteca localiza-se na Casa de Cultura.</p>
+                  
+                  <button class="btn btn-primary" data-dismiss="modal" type="button">
+                    <i class="fa fa-times"></i>
+                    Fechar</button>
+                </div>
+              </div>
+              <a data-toggle="modal" href="#portfolioModal13" title="Próximo" alt="Próximo">
+                <i class="fas fa-angle-right fa-9x" style="margin-top: 1em; width: 30px; height: 100px;"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal 13 - 1910 -->
+    <div class="portfolio-modal modal fade" id="portfolioModal13" tabindex="-1" role="dialog" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+              <div class="rl"></div>
+            </div>
+          </div>
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-8 mx-auto">
+                <div class="modal-body">
+                  <!-- Project Details Go Here -->
+                  <h2 class="text-uppercase">Inaugurada a estação ferroviária em Itaguaí</h2>
+                  <p class="item-intro text-muted">1910 - Estação Ferroviária</p>
+                  <img class="img-fluid d-block mx-auto" src="img/portfolio/200/1910 - Estação Ferroviária. Foi desativada em 1980 e restaurada em 2005.jpg">
+                  <p>O governo Nilo Peçanha, vice-presidente da República, teve como uma de suas prioridades a abertura de novas estradas de ferro
+e a ampliação das já existentes. A Estrada de Ferro Central do Brasil, em particular, recebeu um grande impulso com a construção
+de muitos ramais, entre os quais se destacaram os de Pirapora, Santa Luzia, Montes Claros, Mangaratiba e Itacuruçá.</p>
+<p>Relatórios do Ministério da Viação e Obras Públicas apontam que os trilhos da Estrada de Ferro Central chegaram a Itaguaí entre
+1909 e 1910. A Estação Ferroviária da cidade foi inaugurada em 14 de novembro de 1910. Em 1980, quando foram suspensos os
+trens de passageiros para além da estação de Santa Cruz, a linha naquele trecho, entre essa estação e Brisamar, foi abandonada.
+Em 2005 foi reformada para o funcionamento da Casa de Cultura.</p>
+                  
+                  <button class="btn btn-primary" data-dismiss="modal" type="button">
+                    <i class="fa fa-times"></i>
+                    Fechar</button>
+                </div>
+              </div>
+              <a data-toggle="modal" href="#portfolioModal14" title="Próximo" alt="Próximo">
+                <i class="fas fa-angle-right fa-9x" style="margin-top: 1em; width: 30px; height: 100px;"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal 14 - 1931 -->
+    <div class="portfolio-modal modal fade" id="portfolioModal14" tabindex="-1" role="dialog" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+              <div class="rl"></div>
+            </div>
+          </div>
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-8 mx-auto">
+                <div class="modal-body">
+                  <!-- Project Details Go Here -->
+                  <h2 class="text-uppercase">Inauguração da energia elétrica</h2>
+                  <p class="item-intro text-muted">1931 - Vista da casa de força da Usina Hidrelétrica Fontes Velha, em 1908, localizada em Ribeirão das Lajes na cidade de Piraí. As Usinas Fontes Nova, Nilo Peçanha e Pereira Passos compõem o Complexo de Lajes</p>
+                  <img class="img-fluid d-block mx-auto" src="img/portfolio/200/1931 - Vista da casa de força da Usina Hidrelétrica Fontes Velha em 1908 localizada em Ribeirão das Lajes na cidade de Piraí. As Usinas Fontes Nova Nilo Peçanha e Pereira Passos compõem o Complexo de L.jpeg">
+                  <p>A energia elétrica em Itaguaí chegou durante a Era Vargas. O capitão de corveta Ary Parreiras, que atualmente dá nome a uma
+das ruas do centro de Itaguaí, governou o estado realizando grandes obras, tais como escolas, abrindo estradas e construindo
+pontes por todos os municípios. Itaguaí recebeu observações favoráveis de Parreiras.</p>
+<p>Para aprofundar ainda mais o otimismo, as obras na estrada de rodagem, ligando o centro de Itaguaí à capital da República e os
+serviços da União para levar água ao Rio de Janeiro, concorreriam para que fossem bem promissores os dias futuros do
+município. O Rio de Janeiro continuava crescendo, o que também fez com que e energia elétrica fosse ampliada. Desde que o
+Complexo de Lajes começou a ser construído, em 1903, na cidade de Piraí, houve investimentos buscando melhorias nas usinas
+hidrelétricas.</p>
+                  
+                  <button class="btn btn-primary" data-dismiss="modal" type="button">
+                    <i class="fa fa-times"></i>
+                    Fechar</button>
+                </div>
+              </div>
+              <a data-toggle="modal" href="#portfolioModal15" title="Próximo" alt="Próximo">
+                <i class="fas fa-angle-right fa-9x" style="margin-top: 1em; width: 30px; height: 100px;"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+
+    <!-- Modal 15 - 1939 -->
+    <div class="portfolio-modal modal fade" id="portfolioModal15" tabindex="-1" role="dialog" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+              <div class="rl"></div>
+            </div>
+          </div>
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-8 mx-auto">
+                <div class="modal-body">
+                  <!-- Project Details Go Here -->
+                  <h2 class="text-uppercase">Chegada dos primeiros imigrantes japoneses em Itaguaí</h2>
+                  <p class="item-intro text-muted">1939 - Foto da década de 40 - Competição da colônia japonesa</p>
+                  <img class="img-fluid d-block mx-auto" src="img/portfolio/200/1939 - Foto da década de 40 - Competição da colônia japonesa.jpg">
+                  <p>O Núcleo colonial de Santa Cruz teve uma grande influência para a ida de grandes japoneses para as regiões adjacentes a essa
+iniciativa. A notícia do sucesso com o tomate, já no seu primeiro ano, espalhou-se rapidamente entre os imigrantes. Aos
+japoneses, que até então trabalhavam no sistema de arrendamento em São Paulo e que adquiriram alguma economia, reacendeu
+a chama da esperança de realizar o sonho que os trouxera ao Brasil: o de ser dono de uma grande porção de terra. Foi para
+concretizar esse sonho que vieram verificar a região da baixada fluminense.</p>
+<p>Cinco famílias já estavam em Itaguaí: Saichi Kawaguchi, Akio Wada e Moeto Okasaki, no final de 1939. Já estavam, também,
+Masaji Kosaki e Matsugoro Hoshina, que já haviam iniciado suas atividades agrícolas. Também chegaram, em agosto do mesmo
+ano, os irmãos Okasaki, Harukiti Takamine e Fudeo Hatakeyama.</p>
+<p>A primeira entrada coletiva de japoneses em Itaguaí foi decidida após a pesquisa de campo, em abril de 1939, feita por oito
+homens vindos de Lins. Entre eles, estavam: Guenji Matsunaga, Yoshio Fukamachi e Matsugoro Hoshina. Matsunaga veio
+pesquisar o campo e logo decidiu adquiri-lo devido à boa localização, pelo terreno ser plano, cercado de serras e cortado bem ao
+meio pelo rio Arapucaia, conhecido também como rio Mazomba, pela grande extensão de terra e toda ela bastante fértil e próxima
+ao grande centro. Porém, Itaguaí era conhecido como um local de grande risco de contaminação pela febre amarela, o que fez os
+amigos de Matsunaga desistirem.</p>
+<p>Como responsável do grupo de inspeção, Matsunaga retornou a Itaguaí sozinho em março de 1940. Havia o risco da doença, mas
+a terra era muito boa. Ele visitou o posto de saúde de Santa Cruz, pensando na possibilidade de alguém adoecer, recebendo
+palavras de encorajamento e promessas de apoio médico. Então, o grupo tomou a decisão de ir, chegando na cidade dia 24 de
+junho de 1940. Além do próprio Matsunaga, foram: Manji Arai, Shinsaku Fukamachi, Yoshio Watanabe, Katsuki Nomura, Takeo
+Nomura e respectivas famílias.</p>
+                  
+                  <button class="btn btn-primary" data-dismiss="modal" type="button">
+                    <i class="fa fa-times"></i>
+                    Fechar</button>
+                </div>
+              </div>
+              <a data-toggle="modal" href="#portfolioModal16" title="Próximo" alt="Próximo">
+                <i class="fas fa-angle-right fa-9x" style="margin-top: 1em; width: 30px; height: 100px;"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal 16 - 1943 -->
+    <div class="portfolio-modal modal fade" id="portfolioModal16" tabindex="-1" role="dialog" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+              <div class="rl"></div>
+            </div>
+          </div>
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-8 mx-auto">
+                <div class="modal-body">
+                  <!-- Project Details Go Here -->
+                  <h2 class="text-uppercase">Inaugurado o Coreto Municipal</h2>
+                  <p class="item-intro text-muted">1943 - Coreto Municipal</p>
+                  <img class="img-fluid d-block mx-auto" src="img/portfolio/200/1943 - Inaugurado o Coreto Municipal.jpg">
+                  <p>Inaugurado nas proximidades da Igreja Matriz de São Francisco Xavier, o coreto é peça importante na arquitetura histórica do
+município. Na época, foi utilizado para pequenos discursos políticos e por religiosos. Algumas pessoas da cidade também
+utilizavam informalmente, além das bandinhas populares de carnaval.</p>
+                  
+                  <button class="btn btn-primary" data-dismiss="modal" type="button">
+                    <i class="fa fa-times"></i>
+                    Fechar</button>
+                </div>
+              </div>
+              <a data-toggle="modal" href="#portfolioModal17" title="Próximo" alt="Próximo">
+                <i class="fas fa-angle-right fa-9x" style="margin-top: 1em; width: 30px; height: 100px;"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+    <!-- Modal 17 - 1950 -->
+    <div class="portfolio-modal modal fade" id="portfolioModal17" tabindex="-1" role="dialog" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+              <div class="rl"></div>
+            </div>
+          </div>
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-8 mx-auto">
+                <div class="modal-body">
+                  <!-- Project Details Go Here -->
+                  <h2 class="text-uppercase">Ano em que foi composto o Hino de Itaguaí</h2>
+                  <p class="item-intro text-muted">1950 - Foto da década de 40 - Um dos primeiros blocos de carnaval</p>
+                  <img class="img-fluid d-block mx-auto" src="img/portfolio/200/Década de 40 - Um dos primeiros blocos de carnaval.jpg">
+                  <p>O hino de Itaguaí é de autoria de Mário Figueiredo Cicarino, que hoje dá o nome a uma rua do bairro Engenho. Como podemos
+comprovar no decorrer dos 200 anos da nossa cidade, Mario disse: “A cidade é berço de nomes históricos... Terra de homens
+heróicos”. Inicialmente, foi composto como marchinha de carnaval, se tornando hino décadas depois.</p>
+
+                <p>
+                  HINO DE ITAGUAÍ<br />
+Letra e Música: Mario Figueiredo Cicarino <br />
+<br />
+Itaguaí,<br />
+antigamente era chamado,<br />
+o município abandonado.<br />
+Hoje ele surge,<br />
+imponente, rico e belo como é.<br />
+Salve as belezas,<br />
+Salve as riquezas,<br />
+da terra de Tefé.<br />
+<br />
+Itaguaí,<br />
+berço de nomes históricos.<br />
+Itaguaí,<br />
+terra de homens heróicos.<br />
+O seu clima faz viver seu céu de anil,<br />
+Tudo isso quer dizer<br />
+Brasil! Brasil! Brasil!<br />
+<br />
+Itaguaí,<br />
+Labor e constante de civismo<br />
+Itaguaí,<br />
+recreação e turismo.<br />
+o seu clima faz viver<br />
+seu céu de anil<br />
+<br />
+Tudo isso quer dizer,<br />
+Brasil! Brasil! Brasil!<br />
+                </p>
+                  
+                  <button class="btn btn-primary" data-dismiss="modal" type="button">
+                    <i class="fa fa-times"></i>
+                    Fechar</button>
+                </div>
+              </div>
+              <a data-toggle="modal" href="#portfolioModal18" title="Próximo" alt="Próximo">
+                <i class="fas fa-angle-right fa-9x" style="margin-top: 1em; width: 30px; height: 100px;"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+    <!-- Modal 18 - 1952 -->
+    <div class="portfolio-modal modal fade" id="portfolioModal18" tabindex="-1" role="dialog" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+              <div class="rl"></div>
+            </div>
+          </div>
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-8 mx-auto">
+                <div class="modal-body">
+                  <!-- Project Details Go Here -->
+                  <h2 class="text-uppercase">Inaugurado o Itaguaí Bunka Club</h2>
+                  <p class="item-intro text-muted">1952 - Inauguração do Bunka Club, com Vicente Cicarino e o Consul do Japão</p>
+                  <img class="img-fluid d-block mx-auto" src="img/portfolio/200/1952 - Inauguração do Bunka Club, com Vicente Cicarino e o Consul do Japão.jpg">
+                  <p>Em 29 de abril de 1952 foi inaugurado o principal reduto de japoneses de Itaguaí. Hoje, a cidade possui a maior colônia de
+japoneses do Estado do Rio de Janeiro.</p>
+                  
+                  <button class="btn btn-primary" data-dismiss="modal" type="button">
+                    <i class="fa fa-times"></i>
+                    Fechar</button>
+                </div>
+              </div>
+              <a data-toggle="modal" href="#portfolioModal19" title="Próximo" alt="Próximo">
+                <i class="fas fa-angle-right fa-9x" style="margin-top: 1em; width: 30px; height: 100px;"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal 19 - 1953 -->
+    <div class="portfolio-modal modal fade" id="portfolioModal19" tabindex="-1" role="dialog" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+              <div class="rl"></div>
+            </div>
+          </div>
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-8 mx-auto">
+                <div class="modal-body">
+                  <!-- Project Details Go Here -->
+                  <h2 class="text-uppercase">Inaugurado o Patronato São José</h2>
+                  <p class="item-intro text-muted">1953 - Padre Cesar (primeiro à esquerda) em reunião com políticos. Ele foi responsável pelo Patronato São José</p>
+                  <img class="img-fluid d-block mx-auto" src="img/portfolio/200/1953 - Padre Cesar (primeiro à esquerda) em reunião com políticos. Ele foi responsável pelo Patronato São José.jpg">
+                  <p>Itaguaí foi o primeiro local fora do estado do Rio Grande do Sul que recebeu uma obra guanelliana (referência a Luís Guanella,
+importante sacerdote católico italiano), que foi a Escola Católica Patronato São José. Apesar de ter ocorrido mais intensamente no
+Rio Grande do Sul, o carisma guanelliano também recebeu um forte impulso em outras regiões do país.</p>
+                  
+                  <button class="btn btn-primary" data-dismiss="modal" type="button">
+                    <i class="fa fa-times"></i>
+                    Fechar</button>
+                </div>
+              </div>
+              <a data-toggle="modal" href="#portfolioModal20" title="Próximo" alt="Próximo">
+                <i class="fas fa-angle-right fa-9x" style="margin-top: 1em; width: 30px; height: 100px;"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+
+    <!-- Modal 20 - 1960 -->
+    <div class="portfolio-modal modal fade" id="portfolioModal20" tabindex="-1" role="dialog" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+              <div class="rl"></div>
+            </div>
+          </div>
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-8 mx-auto">
+                <div class="modal-body">
+                  <!-- Project Details Go Here -->
+                  <h2 class="text-uppercase">Emancipação de Paracambi</h2>
+                  <p class="item-intro text-muted">1960 - Mapa de Itaguaí e Paracambi</p>
+                  <img class="img-fluid d-block mx-auto" src="img/portfolio/200/1960 - Mapa de Itaguaí e Paracambi.jpg">
+                  <p>Em 8 de agosto de 1960, através da lei 4.426, foi criado o Município de Paracambi, fruto da junção do sétimo distrito de Vassouras
+e do terceiro distrito de Itaguaí, denominado Paracambi, que deu o nome à cidade por ser mais antigo.</p>
+<p>O progresso da região ganhou força com a inauguração da Estrada de Ferro Central, então chamada Dom Pedro II, em 1861 e
+com a instalação de uma fábrica de tecidos, em 1895. O crescimento econômico proporcionado pelas indústrias impulsionou os
+desejos pela emancipação.</p>
+                  
+                  <button class="btn btn-primary" data-dismiss="modal" type="button">
+                    <i class="fa fa-times"></i>
+                    Fechar</button>
+                </div>
+              </div>
+              <a data-toggle="modal" href="#portfolioModal21" title="Próximo" alt="Próximo">
+                <i class="fas fa-angle-right fa-9x" style="margin-top: 1em; width: 30px; height: 100px;"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal 21 - 1965 -->
+    <div class="portfolio-modal modal fade" id="portfolioModal21" tabindex="-1" role="dialog" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+              <div class="rl"></div>
+            </div>
+          </div>
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-8 mx-auto">
+                <div class="modal-body">
+                  <!-- Project Details Go Here -->
+                  <h2 class="text-uppercase">Criação do Brasão de Itaguaí</h2>
+                  <p class="item-intro text-muted">1965 - Brasão de Itaguaí</p>
+                  <img class="img-fluid d-block mx-auto" src="img/portfolio/200/1965 - brasao-itaguai.png">
+                  <p>O Brasão de Armas de Itaguaí é de autoria do heraldista Alberto Lima e foi criado pela Deliberação de n.º 332, de 1.º de dezembro
+de 1965, sancionada pelo Prefeito Isoldackson Cruz de Brito, que dá o nome a uma importante avenida da cidade.</p>
+                  
+                  <button class="btn btn-primary" data-dismiss="modal" type="button">
+                    <i class="fa fa-times"></i>
+                    Fechar</button>
+                </div>
+              </div>
+              <a data-toggle="modal" href="#portfolioModal22" title="Próximo" alt="Próximo">
+                <i class="fas fa-angle-right fa-9x" style="margin-top: 1em; width: 30px; height: 100px;"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal 22 - 1967 -->
+    <div class="portfolio-modal modal fade" id="portfolioModal22" tabindex="-1" role="dialog" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+              <div class="rl"></div>
+            </div>
+          </div>
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-8 mx-auto">
+                <div class="modal-body">
+                  <!-- Project Details Go Here -->
+                  <h2 class="text-uppercase">Construção do Relógio Solar</h2>
+                  <p class="item-intro text-muted">1967 - Relógio Solar</p>
+                  <img class="img-fluid d-block mx-auto" src="img/portfolio/200/1967 - Relógio Solar.jpg">
+                  <p>O Relógio Solar foi construído por um andarilho paraguaio chamado Gutierrez. Para se ver a hora, basta fixar a vista na sombra da
+espátula, que fica ao centro do relógio. Sua localização é em frente ao Cemitério São Francisco Xavier.</p>
+                  
+                  <button class="btn btn-primary" data-dismiss="modal" type="button">
+                    <i class="fa fa-times"></i>
+                    Fechar</button>
+                </div>
+              </div>
+              <a data-toggle="modal" href="#portfolioModal23" title="Próximo" alt="Próximo">
+                <i class="fas fa-angle-right fa-9x" style="margin-top: 1em; width: 30px; height: 100px;"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+    <!-- Modal 23 - 1982 -->
+    <div class="portfolio-modal modal fade" id="portfolioModal23" tabindex="-1" role="dialog" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+              <div class="rl"></div>
+            </div>
+          </div>
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-8 mx-auto">
+                <div class="modal-body">
+                  <!-- Project Details Go Here -->
+                  <h2 class="text-uppercase">Reinauguração do Porto de Itaguaí</h2>
+                  <p class="item-intro text-muted">1982 - Porto de Itaguaí</p>
+                  <img class="img-fluid d-block mx-auto" src="img/portfolio/200/1982 - porto-itaguai.jpg">
+                  <p>O Porto de Itaguaí (antes chamado de Porto de Sepetiba), foi reinaugurado em 7 de maio de 1982, quando foram iniciadas as
+atividades do Terminal de Carvão e Alumina. Está localizado na costa norte da Baía de Sepetiba, no município de Itaguaí.</p>
+                  
+                  <button class="btn btn-primary" data-dismiss="modal" type="button">
+                    <i class="fa fa-times"></i>
+                    Fechar</button>
+                </div>
+              </div>
+              <a data-toggle="modal" href="#portfolioModal24" title="Próximo" alt="Próximo">
+                <i class="fas fa-angle-right fa-9x" style="margin-top: 1em; width: 30px; height: 100px;"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal 24 - 1995 -->
+    <div class="portfolio-modal modal fade" id="portfolioModal24" tabindex="-1" role="dialog" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+              <div class="rl"></div>
+            </div>
+          </div>
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-8 mx-auto">
+                <div class="modal-body">
+                  <!-- Project Details Go Here -->
+                  <h2 class="text-uppercase">Criação do Município de Seropédica</h2>
+                  <p class="item-intro text-muted">1995 - Proposta de divisão de Itaguaí e Seropédica</p>
+                  <img class="img-fluid d-block mx-auto" src="img/portfolio/200/1995 - Proposta de divisão de Itaguaí e Seropédica.jpg">
+                  <p>Pela dificuldade de acesso, Seropédica era uma região inexpressiva, pois só existia uma linha férrea com pouca movimentação de
+trens. Em 1938, começou a ser construída a Universidade Federal Rural do Rio de Janeiro, dando início ao desenvolvimento
+urbano do local. A exemplo de Paracambi, com a lei n° 2.446 de 12 de outubro, assinada pelo governador Marcelo Alencar,
+Seropédica tornou-se município independente de Itaguaí.</p>
+                  
+                  <button class="btn btn-primary" data-dismiss="modal" type="button">
+                    <i class="fa fa-times"></i>
+                    Fechar</button>
+                </div>
+              </div>
+              <a data-toggle="modal" href="#portfolioModal25" title="Próximo" alt="Próximo">
+                <i class="fas fa-angle-right fa-9x" style="margin-top: 1em; width: 30px; height: 100px;"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+    <!-- Modal 25 - 2006 -->
+    <div class="portfolio-modal modal fade" id="portfolioModal25" tabindex="-1" role="dialog" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+              <div class="rl"></div>
+            </div>
+          </div>
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-8 mx-auto">
+                <div class="modal-body">
+                  <!-- Project Details Go Here -->
+                  <h2 class="text-uppercase">Inauguração da Casa de Cultura de Itaguaí</h2>
+                  <p class="item-intro text-muted">2006</p>
+                  <img class="img-fluid d-block mx-auto" src="img/portfolio/200/2006 - Casa de Cultura de Itaguaí.jpg">
+                  <p>A Casa de Cultura nasceu com uma nova missão: abrigar a história e a cultura do Município de Itaguaí. Entre as curiosidades e
+atividades do local, estão a visita de um rei de uma tribo da Nigéria, juntamente com sua comitiva, e a visita de índios do
+Amazonas, que apresentaram seus artefatos e seus costumes aos alunos da rede pública.</p>
+<p>Inaugurada em 13 de fevereiro de 2006, a Casa de Cultura, que já foi uma estação de trem, localiza-se nas dependências da
+antiga estação ferroviária. Hoje, funciona com salas de aulas para cursos e exposições, prestigiando os artistas locais, além de
+abrigar a Biblioteca Municipal.</p>
+                  
+                  <button class="btn btn-primary" data-dismiss="modal" type="button">
+                    <i class="fa fa-times"></i>
+                    Fechar</button>
+                </div>
+              </div>
+              <a data-toggle="modal" href="#portfolioModal26" title="Próximo" alt="Próximo">
+                <i class="fas fa-angle-right fa-9x" style="margin-top: 1em; width: 30px; height: 100px;"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal 26 - 2008-->
+    <div class="portfolio-modal modal fade" id="portfolioModal26" tabindex="-1" role="dialog" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+              <div class="rl"></div>
+            </div>
+          </div>
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-8 mx-auto">
+                <div class="modal-body">
+                  <!-- Project Details Go Here -->
+                  <h2 class="text-uppercase">Inauguração do CEFET e da ETERJ</h2>
+                  <p class="item-intro text-muted">2008</p>
+                  <img class="img-fluid d-block mx-auto" src="img/portfolio/200/2008 - cefet.jpg">
+                  <p>O CEFET (Centro Federal de Educação Tecnológica) foi construído a partir do diálogo estabelecido pelo Cefet/RJ com
+representantes de governo e empresas públicas e privadas na região da Costa Verde, em especial a Prefeitura Municipal de
+Itaguaí e a empresa Vale.</p>
+<p>A ETERJ (Escola Técnica do Rio de Janeiro) foi inaugurada em agosto de 2008, atendendo à demanda de empregos gerados a
+partir dos investimentos projetados para Itaguaí. Em 2016, foi iniciado o Ensino Fundamental de 1º ao 9º ano na unidade Itaguaí
+para atender a clientela de alunos oriundos do Patronato São José.</p>
+                  
+                  <button class="btn btn-primary" data-dismiss="modal" type="button">
+                    <i class="fa fa-times"></i>
+                    Fechar</button>
+                </div>
+              </div>
+              <a data-toggle="modal" href="#portfolioModal27" title="Próximo" alt="Próximo">
+                <i class="fas fa-angle-right fa-9x" style="margin-top: 1em; width: 30px; height: 100px;"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal 27 - 2009-->
+    <div class="portfolio-modal modal fade" id="portfolioModal27" tabindex="-1" role="dialog" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+              <div class="rl"></div>
+            </div>
+          </div>
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-8 mx-auto">
+                <div class="modal-body">
+                  <!-- Project Details Go Here -->
+                  <h2 class="text-uppercase">Início das Obras do Porto Sudeste</h2>
+                  <p class="item-intro text-muted">2009</p>
+                  <img class="img-fluid d-block mx-auto" src="img/portfolio/200/2009 - superportosudeste.jpg">
+                  <p>O Porto Sudeste foi inaugurado em 2015. É um porto privado, projetado exclusivamente para o carregamento de granéis sólidos
+(minério de ferro). Instalado na Ilha da Madeira, em Itaguaí, sua localização representa a menor distância entre os produtores de
+minério de ferro de Minas Gerais e seus clientes.</p>
+                  
+                  <button class="btn btn-primary" data-dismiss="modal" type="button">
+                    <i class="fa fa-times"></i>
+                    Fechar</button>
+                </div>
+              </div>
+              <a data-toggle="modal" href="#portfolioModal28" title="Próximo" alt="Próximo">
+                <i class="fas fa-angle-right fa-9x" style="margin-top: 1em; width: 30px; height: 100px;"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+    <!-- Modal 28 - 2010 -->
+    <div class="portfolio-modal modal fade" id="portfolioModal28" tabindex="-1" role="dialog" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+              <div class="rl"></div>
+            </div>
+          </div>
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-8 mx-auto">
+                <div class="modal-body">
+                  <!-- Project Details Go Here -->
+                  <h2 class="text-uppercase">Início das obras de Estaleiro e Base Naval</h2>
+                  <p class="item-intro text-muted">2010</p>
+                  <img class="img-fluid d-block mx-auto" src="img/portfolio/200/2010 - Estaleiro e Base Naval de Itaguaí.jpg">
+                  <p>A Marinha do Brasil, investindo na expansão da força naval e no desenvolvimento da indústria da defesa, iniciou, em 2010, um
+conjunto de obras que constituiu a infraestrutura industrial de apoio ao PROSUB, cujo propósito foi capacitar o Brasil a produzir e
+operar submarinos convencionais e com propulsão nuclear.</p>
+                  
+                  <button class="btn btn-primary" data-dismiss="modal" type="button">
+                    <i class="fa fa-times"></i>
+                    Fechar</button>
+                </div>
+              </div>
+              <a data-toggle="modal" href="#portfolioModal29" title="Próximo" alt="Próximo">
+                <i class="fas fa-angle-right fa-9x" style="margin-top: 1em; width: 30px; height: 100px;"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+    <!-- Modal 29 - 2011-->
+    <div class="portfolio-modal modal fade" id="portfolioModal29" tabindex="-1" role="dialog" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+              <div class="rl"></div>
+            </div>
+          </div>
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-8 mx-auto">
+                <div class="modal-body">
+                  <!-- Project Details Go Here -->
+                  <h2 class="text-uppercase">Inauguração do SENAI</h2>
+                  <p class="item-intro text-muted">2011</p>
+                  <img class="img-fluid d-block mx-auto" src="img/portfolio/200/2011 - senai.jpg">
+                  <p>A unidade de Itaguaí foi inaugurada em 2011, através de parcerias entre a prefeitura e empresas privadas. O SENAI, Serviço
+Nacional de Aprendizagem Industrial, é uma instituição brasileira que atua formando e qualificando profissionais para atender às
+necessidades da indústria, em diversos segmentos, há mais de 70 anos.</p>
+                  
+                  <button class="btn btn-primary" data-dismiss="modal" type="button">
+                    <i class="fa fa-times"></i>
+                    Fechar</button>
+                </div>
+              </div>
+              <a data-toggle="modal" href="#portfolioModal30" title="Próximo" alt="Próximo">
+                <i class="fas fa-angle-right fa-9x" style="margin-top: 1em; width: 30px; height: 100px;"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+    <!-- Modal 30 - 2014 -->
+    <div class="portfolio-modal modal fade" id="portfolioModal30" tabindex="-1" role="dialog" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+              <div class="rl"></div>
+            </div>
+          </div>
+          <div class="container">
+            <div class="row">
+              <a data-dismiss="modal" href="#" title="Anterior" alt="Anterior">
+                <i class="fas fa-angle-left fa-9x" style="margin-top: 1em; width: 30px; height: 100px;"></i>
+              </a>
+              <div class="col-lg-8 mx-auto">
+                <div class="modal-body">
+                  <!-- Project Details Go Here -->
+                  <h2 class="text-uppercase">Inauguração do Arco Metropolitano</h2>
+                  <p class="item-intro text-muted">2014 - Foto aérea do Arco Metropolitano na inauguração (Foto: João dos Santos)</p>
+                  <img class="img-fluid d-block mx-auto" src="img/portfolio/200/2014 - Foto aérea do Arco Metropolitano em 2014 (João dos Santos - Blog do Planalto).jpg">
+                  <p>Os estudos do projeto do Arco Metropolitano iniciaram na década de 70, quando definiram o traçado da rodovia RJ-109. Até sua inauguração, em primeiro de julho de 2014, quando foi inaugurado o trecho que liga Itaguaí a Duque de Caxias, o projeto sofreu modificações e aperfeiçoamentos com a principal finalidade de fazer conexão rodoviária entre a BR-101/NORTE e a BR-101/SUL, sem que houvesse necessidade de trânsito pelas vias urbanas da Região Metropolitana.</p>
+                  
+                  <button class="btn btn-primary" data-dismiss="modal" type="button">
+                    <i class="fa fa-times"></i>
+                    Fechar</button>
+                </div>
+              </div>
+              <a   href="#portfolioModal31" data-toggle="modal" title="Próximo" alt="Próximo">
+                <i class="fas fa-angle-right fa-9x" style="margin-top: 1em; width: 30px; height: 100px;"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+
+    <!-- Modal 31 -->
+    <div class="portfolio-modal modal fade portfolioModal31" id="portfolioModal31" tabindex="-1" role="dialog" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+              <div class="rl"></div>
+            </div>
+          </div>
+          <div class="container">
+            <div class="row">
+              <a data-toggle="modal" href="#portfolioModal30" title="Anterior" alt="Anterior">
+                <i class="fas fa-angle-left fa-9x" style="margin-top: 1em; width: 30px; height: 100px;"></i>
+              </a>
+              <div class="col-lg-8 mx-auto">
+                <div class="modal-body">
+                  <!-- Project Details Go Here -->
+                  <h2 class="text-uppercase">Descoberta de jazida arqueológica em Itaguaí</h2>
+                  <p class="item-intro text-muted">2018 - Forte do Raio - Villa de Itagoahy, em 1818. Planta do Forte de Itaguaí (também conhecido como Forte de Coroa Grande)</p>
+                  <img class="img-fluid d-block mx-auto" src="img/portfolio/200/2015 - Forte do Raio - Villa de Itagoahy, em 1818. Planta do Forte de Itaguaí (também conhecido como Forte de Coroa Grande).jpg">
+                  <p>O Instituto de Pesquisa Histórica e Arqueológica do Rio de Janeiro (IPHARJ), trabalhando no projeto As Fortalezas Perdidas do
+Rio de Janeiro, descobriu, em 2015, a existência de cinco importantes sítios arqueológicos na região de Itaguaí, comprovando que
+a Baía de Sepetiba está ligada à pré-história remota, como atesta a presença de sambaquis e sítios Tupi-Guarani com farta
+cerâmica na região.</p>
+<p>Em fevereiro de 2018, uma exploração foi realizada em uma antiga e estratégica fortificação militar, que foi dada como
+desaparecida já em 1885, quando os fortes foram vistoriados pelos militares a mando de D Pedro II. Na ocasião, a equipe do
+IPHARJ e a Prefeitura de Itaguaí verificaram o que sobrou do local, onde existiu um dia o Forte de Itaguaí, ou o Forte de Coroa
+Grande. No local, além de parte da fortaleza em taipa (antiga técnica construtiva), foi encontrada quantidade expressiva de restos
+de conchas e novamente cerâmica indígena. Quase tudo foi destruído pela ocupação de casas, mas uma parte da muralha
+permaneceu intacta e esquecida.</p>
+<p>Segundo pesquisas, o ano de construção do forte foi 1818, com base em uma planta de autoria desconhecida (hoje no arquivo
+militar de Portugal), e ainda como Forte de Itaguaí. Nesse sentido, os pesquisadores não descartam a possibilidade de ter existido
+uma Guarda no local bem mais antiga e datando do século XVII, como as pesquisas indicam atualmente.</p>
+<p>A maior parte das fortificações costeiras, certamente de faxina e taipa, revestidas de grama, como as demais fortificações na
+região erguidas no período, encontrava-se totalmente arruinada já em 1885, praticamente desaparecendo ao longo do século XX
+por saque de seu material construtivo.</p>
+<p>A equipe do IPHARJ, em março de 2018, enviou um ofício para a Prefeitura de Itaguaí em tom de celebração, encaminhando o
+registro da jazida arqueológica como parte de um conjunto de 12 estruturas militares Coloniais e Imperiais descobertas ou
+reconhecidas ao longo dos últimos anos.</p>
+                  
+                  <button class="btn btn-primary" data-dismiss="modal" type="button">
+                    <i class="fa fa-times"></i>
+                    Fechar</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+
+    <!-- Modal 32 -->
+    <div class="portfolio-modal modal fade portfolioModal32" id="portfolioModal32" tabindex="-1" role="dialog" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+              <div class="rl"></div>
+            </div>
+          </div>
+          <div class="container">
+            <div class="row">
+              <a data-toggle="modal" href="#portfolioModal30" title="Anterior" alt="Anterior">
+                <i class="fas fa-angle-left fa-9x" style="margin-top: 1em; width: 30px; height: 100px;"></i>
+              </a>
+              <div class="col-lg-8 mx-auto">
+                <div class="modal-body">
+                  <!-- Project Details Go Here -->
+                  <h2 class="text-uppercase">Realização da primeira grande festa do aniversário de Itaguaí</h2>
+                  <p class="item-intro text-muted">1989 - Festival de Pipas na Expo Itaguaí de 1999</p>
+                  <img class="img-fluid d-block mx-auto" src="img/portfolio/200/1989 - Festival de Pipas na Expo Itaguaí de 1999.jpg">
+                  <p>Nos anos de 1989 e 1990 foram realizadas as primeiras grandes festas em comemoração ao aniversário da cidade, organizadas pela Prefeitura na região de Piranema e denominadas "Festa do Peão e Boiadeiro e de Exposições Agropecuárias". </p>
+                  <p>A festa foi levada para o Parque Municipal em 1993, local que recebeu todas as demais edições. Hoje, recebe o nome de Exposição Agropecuária, Industrial e Comercial de Itaguaí (a famosa Expo Itaguaí), um mega evento que oferece workshops de projetos sustentáveis, shows musicais, exposições agropecuárias, feiras de artesanatos, lona cultural, parque de diversões, motocross, ampla praça de alimentação e muito mais.</p>
+                  
+                  <button class="btn btn-primary" data-dismiss="modal" type="button">
+                    <i class="fa fa-times"></i>
+                    Fechar</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+    <!-- Modal 33 -->
+    <div class="portfolio-modal modal fade portfolioModal33" id="portfolioModal33" tabindex="-1" role="dialog" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+              <div class="rl"></div>
+            </div>
+          </div>
+          <div class="container">
+            <div class="row">
+              <a data-toggle="modal" href="#portfolioModal30" title="Anterior" alt="Anterior">
+                <i class="fas fa-angle-left fa-9x" style="margin-top: 1em; width: 30px; height: 100px;"></i>
+              </a>
+              <div class="col-lg-8 mx-auto">
+                <div class="modal-body">
+                  <!-- Project Details Go Here -->
+                  <h2 class="text-uppercase">Inauguração do Teatro Municipal</h2>
+                  <p class="item-intro text-muted">1998 - Foto da inauguração do Teatro Municipal</p>
+                  <img class="img-fluid d-block mx-auto" src="img/portfolio/200/1998 - Inauguração do Teatro Municipal.jpg">
+                  <p>O Teatro Municipal de Itaguaí foi inaugurado em 19 de setembro de 1998, após funcionar por muitos anos como Departamento de Cultura, com uma vasta história artística. O Teatro recebeu diversos artistas famosos ao longo de sua existência, como Fabiana Karla, Flávio Migliaccio, Rogéria, Lady Francisco e Rogério Fróes, além de inúmeras apresentações com artistas locais e grupos de teatro de Itaguaí, como o grupo Ytingas, MGT, Cia Casa Verde, Grupo Poeria no Palco e Grupo GTAF, incluindo alunos da rede municipal de ensino, encontros de corais e peças teatrais.</p>
+                  
+                  <button class="btn btn-primary" data-dismiss="modal" type="button">
+                    <i class="fa fa-times"></i>
+                    Fechar</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+    <!-- Modal 34 -->
+    <div class="portfolio-modal modal fade" id="portfolioModal34" tabindex="-1" role="dialog" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+              <div class="rl"></div>
+            </div>
+          </div>
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-8 mx-auto">
+                <div class="modal-body">
+                  <!-- Project Details Go Here -->
+                  <h2 class="text-uppercase">200 anos da fundação de Itaguaí</h2>
+                  <p class="item-intro text-muted">2018 - Arte em comemoração aos 200 anos da cidade</p>
+                  <img class="img-fluid d-block mx-auto" src="img/portfolio/200/2018 - logo 200 anos.png">
+                  <p>No dia 5 de julho é comemorada a emancipação política de Itaguaí, que completa 200 anos em 2018.</p>
+                  
+                  <button class="btn btn-primary" data-dismiss="modal" type="button">
+                    <i class="fa fa-times"></i>
+                    Fechar</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+    <!-- Fotos  -->
+
+ 
+   
+
+    <!-- Modal Foto 1 -->
+    <div class="portfolio-modal modal fade" id="portfolioModalFoto1" tabindex="-1" role="dialog" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+              <div class="rl"></div>
+            </div>
+          </div>
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-8 mx-auto">
+                <div class="modal-body">
+                  <!-- Project Details Go Here -->
+                  <h2 class="text-uppercase">Barão de Teffé</h2>
+                  <p class="item-intro text-muted"></p>
+                  <img class="img-fluid d-block mx-auto" src="img/team/barao-de-tefe.jpg">
+                  <p>Antônio Luiz Von Hoonholtz, o Barão de Teffé, nasceu em 9 de maio de 1837, em Itaguaí. Com apenas 17 anos, foi promovido à
+Guarda Marinha. Em seguida, foi escolhido pelo Imperador Dom Pedro II para fazer parte da expedição científica destinada ao
+Paraguai. Depois que foi promovido ao posto de 2º tenente, em 1857, recebeu sucessivas promoções, até alcançar o posto de
+almirante, com várias condecorações, comandos e chefia de missões. Em junho de 1873, recebeu o título de barão por indicação
+do próprio Imperador Dom Pedro II. Posteriormente, recebeu o segundo baronato com honras de grandeza.</p>
+<p>Barão de Teffé foi almirante da marinha do Brasil, diplomata, geógrafo e político brasileiro, além de ter sido um conceituado literato
+no final de sua vida. Já reformado, ainda prestou serviços na república como ministro plenipotenciário de 1° classe, representando
+o Brasil em várias cortes pela Europa. Em 1912, foi eleito senador pelo Amazonas.</p>
+                  
+                  <button class="btn btn-primary" data-dismiss="modal" type="button">
+                    <i class="fa fa-times"></i>
+                    Fechar</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Foto 2 -->
+    <div class="portfolio-modal modal fade" id="portfolioModalFoto2" tabindex="-1" role="dialog" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+              <div class="rl"></div>
+            </div>
+          </div>
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-8 mx-auto">
+                <div class="modal-body">
+                  <!-- Project Details Go Here -->
+                  <h2 class="text-uppercase">Motta Maia</h2>
+                  <p class="item-intro text-muted"></p>
+                  <img class="img-fluid d-block mx-auto" src="img/team/motta-maia.jpg">
+                  <p>Cláudio Velho da Motta Maia, conde da Motta Maia, nasceu em Itaguaí (RJ), em 14 de abril de 1843. Recebeu primorosa
+educação, dedicando-se com grande entusiasmo aos estudos, concluindo com grande brilhantismo seu curso médico, além de se
+aprofundar nos estudos literários. Em 1875, foi agraciado pelo Governo Imperial com uma bolsa na Faculdade de Medicina de
+Paris. Em 1887, recebeu o título de visconde.</p>
+<p>Motta era constantemente visto ao lado do Imperador D. Pedro II. Ele era responsável pelos cuidados médicos do imperador,
+sendo um “vigilante incansável”, como disse um conceituado órgão de imprensa do Rio de Janeiro. Em 1888, desejando distinguir
+seu médico, o imperador o agraciou com o título de conde, lhe dando muitas homenagens.</p>
+<p>No final da vida, Motta viveu em Petrópolis, dedicando-se à educação dos filhos, vivendo na intimidade dos parentes e amigos.
+Quando agravou seu estado de saúde, retornou a Juiz de Fora, onde veio a falecer em 7 de novembro de 1897.</p>
+                  
+                  <button class="btn btn-primary" data-dismiss="modal" type="button">
+                    <i class="fa fa-times"></i>
+                    Fechar</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Foto 3 -->
+    <div class="portfolio-modal modal fade" id="portfolioModalFoto3" tabindex="-1" role="dialog" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+              <div class="rl"></div>
+            </div>
+          </div>
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-8 mx-auto">
+                <div class="modal-body">
+                  <!-- Project Details Go Here -->
+                  <h2 class="text-uppercase">Francisco José Cardoso Junior</h2>
+                  <p class="item-intro text-muted"></p>
+                  <img class="img-fluid d-block mx-auto" src="img/team/francisco-jose-cardoso-junior.jpg">
+                  <p>O Marechal nasceu em Itaguaí, em 15 de janeiro de 1826. Assentou praça em 1842. Fez o curso da antiga Academia Militar e foi
+bacharel em ciências, matemáticas e civis administrativas em várias províncias do Império. Foi diretor da Biblioteca do Exército por
+muitos anos. Nesse cargo, faleceu em 21 de setembro de 1917, no Rio de Janeiro.</p>
+                  
+                  <button class="btn btn-primary" data-dismiss="modal" type="button">
+                    <i class="fa fa-times"></i>
+                    Fechar</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Foto 4 -->
+    <div class="portfolio-modal modal fade" id="portfolioModalFoto4" tabindex="-1" role="dialog" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+              <div class="rl"></div>
+            </div>
+          </div>
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-8 mx-auto">
+                <div class="modal-body">
+                  <!-- Project Details Go Here -->
+                  <h2 class="text-uppercase">João Batista da Costa</h2>
+                  <p class="item-intro text-muted"></p>
+                  <img class="img-fluid d-block mx-auto" src="img/team/joao-batista-auto-retrato.jpg">
+                  <p>Nascido em 1865, na cidade de Itaguaí, no seio de uma família pobre, João Batista da Costa foi recolhido na casa de parentes
+após ficar órfão aos 8 anos, que o maltrataram. Em 1873 fugiu para o Rio de Janeiro e buscou acolhida no Abrigo dos Meninos
+Desvalidos, atual Instituto João Alfredo, em Vila Isabel, onde trabalhou como encadernador de livros e recebeu aulas de desenho,
+além de participar de grupos musicais. Era um artista nato.</p>
+<p>João foi um pintor intimista, pessoal e realista, aprimorou suas habilidades na Europa, onde chegou em 1896. Mestre paisagista,
+sua obra é pura expressão de sua personalidade: calma, tranquila, introspectiva e observadora. O apuro técnico e o realismo
+dedicado às paisagens brasileiras são os responsáveis por seu reconhecimento. Apesar de não aceitar o Modernismo, que julgava
+cabotino e anárquico, o Baptista da Costa professor soube reconhecer o talento dos seus alunos, entre os quais estavam Teruz,
+Quirino Campofiorito e Portinari, que mais tarde foi um dos expoentes desse movimento no Brasil. Faleceu em sua residência em
+1926, no bairro de Botafogo.</p>
+                  
+                  <button class="btn btn-primary" data-dismiss="modal" type="button">
+                    <i class="fa fa-times"></i>
+                    Fechar</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+    <!-- Modal Foto 5 -->
+    <div class="portfolio-modal modal fade" id="portfolioModalFoto5" tabindex="-1" role="dialog" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+              <div class="rl"></div>
+            </div>
+          </div>
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-8 mx-auto">
+                <div class="modal-body">
+                  <!-- Project Details Go Here -->
+                  <h2 class="text-uppercase">Quintino Bocaiuva</h2>
+                  <p class="item-intro text-muted"></p>
+                  <img class="img-fluid d-block mx-auto" src="img/team/Quintino Bocaiuva.jpg">
+                  <p>Quintino Antônio Ferreira de Souza Bocaiuva, nascido em 4 de dezembro de 1836, em Itaguaí, foi um importante jornalista e político brasileiro conhecido por sua atuação no processo de Proclamação da República. Como político, foi o primeiro Ministro das Relações Exteriores da República (1889 a 1891) e Presidente do Estado do Rio de Janeiro (1900 a 1903). No jornalismo, trabalhou no jornal Diário do Rio de Janeiro (1854) e Correio Mercantil (1860-1864), vindo a ser o redator do Manifesto Republicano, que veio a público na primeira edição do A República, e em cujas páginas escreveu até o encerramento, em 1874, quando fundou o jornal O Globo (1874-1883). Em 1884, Quintino Bocaiuva fundou O Paiz, que exerceu grande influência na campanha republicana.</p>
+
+                  <p><a href="https://news.google.com/newspapers?nid=0qX8s2k1IRwC&dat=19300801&printsec=frontpage&hl=pt-BR" target="_blank">Fonte: Jornal do Brasil - 1 de agosto de 1930 - Edição 183</a></p>
+                  
+                  <button class="btn btn-primary" data-dismiss="modal" type="button">
+                    <i class="fa fa-times"></i>
+                    Fechar</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Fim das fotos -->
+
+    <!-- Go to www.addthis.com/dashboard to customize your tools --> <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5b353118329ac3db"></script>
+
+    <!-- Bootstrap core JavaScript -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+
+    <!-- Contact form JavaScript -->
+    <script src="js/jqBootstrapValidation.js"></script>
+    <script src="js/contact_me.js"></script>
+
+    <!-- Custom scripts for this template -->
+    <script src="js/agency.min.js"></script>
+
+  </body>
+
+</html>
